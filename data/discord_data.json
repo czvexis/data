@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 23,
+  "online_count": 21,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -392,46 +392,9 @@
       ],
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
-    },
-    {
-      "id": "1316481745251471416",
-      "username": "bofor0253",
-      "discriminator": "0",
-      "displayName": "BOFOR",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1344383442216812595",
-          "name": "Denní souhrn 🕦",
-          "color": "#9b59b6"
-        },
-        {
-          "id": "1331733983314317395",
-          "name": "Kanál Boti 👾",
-          "color": "#71368a"
-        },
-        {
-          "id": "1331734216253378691",
-          "name": "Turnaj 🏆",
-          "color": "#f1c40f"
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059"
-        },
-        {
-          "id": "1319320315377090621",
-          "name": "Leader 👑",
-          "color": "#e74c3c"
-        }
-      ],
-      "bot": false,
-      "game": null
     },
     {
       "id": "1170795208624066721",
@@ -517,33 +480,6 @@
       "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/6a8c6698768d4cd8f9f3e71b0f9ba48d.png?size=1024",
       "status": "idle",
       "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059"
-        }
-      ],
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1334571410814664732",
-      "username": "jardahrouzek",
-      "discriminator": "0",
-      "displayName": "Jarda",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1334571410814664732/a90a15b8247011ef3cd08aee4a9da006.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331733983314317395",
-          "name": "Kanál Boti 👾",
-          "color": "#71368a"
-        },
-        {
-          "id": "1331734216253378691",
-          "name": "Turnaj 🏆",
-          "color": "#f1c40f"
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
@@ -663,23 +599,12 @@
       }
     },
     {
-      "id": "804389231794716672",
-      "username": "skyboss3840",
-      "discriminator": "0",
-      "displayName": "SKY",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
-      "status": "idle",
-      "roles": [],
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "515795268235427851",
       "username": "thuglife8675",
       "discriminator": "0",
       "displayName": "ThugLife",
       "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
-      "status": "idle",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -823,6 +748,23 @@
       }
     },
     {
+      "id": "679698867566018657",
+      "username": "famas_1",
+      "discriminator": "0",
+      "displayName": "|SK|BΞST!Λ",
+      "avatar_url": "https://cdn.discordapp.com/avatars/679698867566018657/c4175d83a2fb36f00a8107f7c934b7fd.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059"
+        }
+      ],
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1326941437610164234",
       "username": "ČechyMorava⚔",
       "discriminator": "0671",
@@ -961,6 +903,43 @@
       "avatar_url": "https://cdn.discordapp.com/avatars/1316468298258448399/289d9b32a62e432cf4ac93b3e0d2ab4c.png?size=1024",
       "status": "offline",
       "roles": [],
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1316481745251471416",
+      "username": "bofor0253",
+      "discriminator": "0",
+      "displayName": "BOFOR",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1344383442216812595",
+          "name": "Denní souhrn 🕦",
+          "color": "#9b59b6"
+        },
+        {
+          "id": "1331733983314317395",
+          "name": "Kanál Boti 👾",
+          "color": "#71368a"
+        },
+        {
+          "id": "1331734216253378691",
+          "name": "Turnaj 🏆",
+          "color": "#f1c40f"
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059"
+        },
+        {
+          "id": "1319320315377090621",
+          "name": "Leader 👑",
+          "color": "#e74c3c"
+        }
+      ],
       "bot": false,
       "game": null
     },
@@ -1464,6 +1443,33 @@
       "avatar_url": "https://cdn.discordapp.com/avatars/809731554590326805/fb7d1f10b357ba5e8d2d670960e158cb.png?size=1024",
       "status": "offline",
       "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059"
+        }
+      ],
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1334571410814664732",
+      "username": "jardahrouzek",
+      "discriminator": "0",
+      "displayName": "Jarda",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1334571410814664732/a90a15b8247011ef3cd08aee4a9da006.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331733983314317395",
+          "name": "Kanál Boti 👾",
+          "color": "#71368a"
+        },
+        {
+          "id": "1331734216253378691",
+          "name": "Turnaj 🏆",
+          "color": "#f1c40f"
+        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
@@ -2264,6 +2270,17 @@
       "game": null
     },
     {
+      "id": "804389231794716672",
+      "username": "skyboss3840",
+      "discriminator": "0",
+      "displayName": "SKY",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
+      "status": "offline",
+      "roles": [],
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1140648752173031555",
       "username": "zabijak_28958",
       "discriminator": "0",
@@ -2513,23 +2530,6 @@
       "game": null
     },
     {
-      "id": "679698867566018657",
-      "username": "famas_1",
-      "discriminator": "0",
-      "displayName": "|SK|BΞST!Λ",
-      "avatar_url": "https://cdn.discordapp.com/avatars/679698867566018657/c4175d83a2fb36f00a8107f7c934b7fd.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059"
-        }
-      ],
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "973631931944173599",
       "username": "skuby4546",
       "discriminator": "0",
@@ -2586,5 +2586,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-03 18:05:18"
+  "updated_at": "2025-03-03 18:08:55"
 }
