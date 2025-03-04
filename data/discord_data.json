@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 18,
+  "online_count": 17,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -337,7 +337,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmhelp",
+        "name": "/cmlevelhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -533,18 +533,6 @@
         }
       ],
       "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1245088702573576243",
-      "username": "yll0608_73175",
-      "discriminator": "0",
-      "displayName": "Gunz up",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/cafcda318427376702c288df20037b00.png?size=1024",
-      "status": "online",
-      "roles": [],
-      "highest_role_priority": 9999,
       "bot": false,
       "game": null
     },
@@ -2315,6 +2303,18 @@
       "game": null
     },
     {
+      "id": "1245088702573576243",
+      "username": "yll0608_73175",
+      "discriminator": "0",
+      "displayName": "Gunz up",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/cafcda318427376702c288df20037b00.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1059842134909403166",
       "username": "happy080745",
       "discriminator": "0",
@@ -2567,5 +2567,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-04 17:19:20"
+  "updated_at": "2025-03-04 17:20:21"
 }
