@@ -389,7 +389,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -488,11 +488,11 @@
       }
     },
     {
-      "id": "1279844342546170050",
-      "username": "valverde0416",
+      "id": "601462917745082389",
+      "username": "jano_420",
       "discriminator": "0",
-      "displayName": "𝕃𝕖𝕨𝕚𝕤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1279844342546170050/fb4e11396034b69fbb14d6f1f6214c65.png?size=1024",
+      "displayName": "Jack_420",
+      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/6a8c6698768d4cd8f9f3e71b0f9ba48d.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -1230,25 +1230,6 @@
       "discriminator": "0",
       "displayName": "Honza",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "601462917745082389",
-      "username": "jano_420",
-      "discriminator": "0",
-      "displayName": "Jack_420",
-      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/6a8c6698768d4cd8f9f3e71b0f9ba48d.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2175,6 +2156,25 @@
       "game": null
     },
     {
+      "id": "1279844342546170050",
+      "username": "valverde0416",
+      "discriminator": "0",
+      "displayName": "𝕃𝕖𝕨𝕚𝕤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1279844342546170050/fb4e11396034b69fbb14d6f1f6214c65.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "411587038006214656",
       "username": "mnky2mnky2mnky",
       "discriminator": "0",
@@ -2585,5 +2585,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-08 00:23:59"
+  "updated_at": "2025-03-08 00:38:59"
 }
