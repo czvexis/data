@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 7,
+  "online_count": 6,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -389,7 +389,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -441,28 +441,6 @@
       "game": {
         "name": "YouTube. /help - [18] [...]",
         "type": "ActivityType.watching"
-      }
-    },
-    {
-      "id": "991697702142353490",
-      "username": "petras_7",
-      "discriminator": "0",
-      "displayName": "P A V E L",
-      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Roblox",
-        "type": "ActivityType.playing"
       }
     },
     {
@@ -1795,6 +1773,25 @@
       "game": null
     },
     {
+      "id": "991697702142353490",
+      "username": "petras_7",
+      "discriminator": "0",
+      "displayName": "P A V E L",
+      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1112375027216683041",
       "username": "papen08.",
       "discriminator": "0",
@@ -2585,5 +2582,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-09 01:53:59"
+  "updated_at": "2025-03-09 02:08:59"
 }
