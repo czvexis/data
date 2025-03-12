@@ -389,7 +389,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/invite",
         "type": "ActivityType.listening"
       }
     },
@@ -460,10 +460,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "World of Warcraft Classic",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "821814822521798717",
@@ -2592,5 +2589,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-12 01:45:48"
+  "updated_at": "2025-03-12 01:47:06"
 }
