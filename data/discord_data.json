@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 19,
+  "online_count": 21,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -444,6 +444,25 @@
       }
     },
     {
+      "id": "379687101614129153",
+      "username": "arkephalos",
+      "discriminator": "0",
+      "displayName": "Arkephalos",
+      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "290157462647209994",
       "username": "cingy23",
       "discriminator": "0",
@@ -485,11 +504,11 @@
       "game": null
     },
     {
-      "id": "813739514328907777",
-      "username": "medyx_",
+      "id": "619205962825465886",
+      "username": "ondris",
       "discriminator": "0",
-      "displayName": "Medyx",
-      "avatar_url": "https://cdn.discordapp.com/avatars/813739514328907777/4d14a70c0e1b5dfe5ea6ca9f14e4c1fb.png?size=1024",
+      "displayName": "Ondris💩",
+      "avatar_url": "https://cdn.discordapp.com/avatars/619205962825465886/ff0ac4e0ea7d2661a03b491e0285b833.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -501,10 +520,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "God Gamer Mc - Když chceš zahrát napiš",
-        "type": "ActivityType.custom"
-      }
+      "game": null
     },
     {
       "id": "991697702142353490",
@@ -590,6 +606,28 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "813739514328907777",
+      "username": "medyx_",
+      "discriminator": "0",
+      "displayName": "Medyx",
+      "avatar_url": "https://cdn.discordapp.com/avatars/813739514328907777/4d14a70c0e1b5dfe5ea6ca9f14e4c1fb.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "God Gamer Mc - Když chceš zahrát napiš",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "581048489463775232",
@@ -1020,25 +1058,6 @@
       "discriminator": "0",
       "displayName": "Aares",
       "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/ab84bbd694e4534886ee150e9c9ebd0a.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "379687101614129153",
-      "username": "arkephalos",
-      "discriminator": "0",
-      "displayName": "Arkephalos",
-      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1889,25 +1908,6 @@
       "game": null
     },
     {
-      "id": "619205962825465886",
-      "username": "ondris",
-      "discriminator": "0",
-      "displayName": "Ondris💩",
-      "avatar_url": "https://cdn.discordapp.com/avatars/619205962825465886/ff0ac4e0ea7d2661a03b491e0285b833.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1112375027216683041",
       "username": "papen08.",
       "discriminator": "0",
@@ -2586,5 +2586,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-13 22:30:48"
+  "updated_at": "2025-03-13 22:32:06"
 }
