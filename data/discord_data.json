@@ -366,10 +366,7 @@
       ],
       "highest_role_priority": 6,
       "bot": true,
-      "game": {
-        "name": "/help pro help",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "729987736659951680",
@@ -389,7 +386,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -2577,5 +2574,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-14 03:32:10"
+  "updated_at": "2025-03-14 03:45:06"
 }
