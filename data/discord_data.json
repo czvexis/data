@@ -2,8 +2,8 @@
   "name": "ČechyMorava⚔",
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
-  "member_count": 124,
-  "online_count": 15,
+  "member_count": 125,
+  "online_count": 16,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -345,7 +345,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmlevelhelp",
+        "name": "/modhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -441,25 +441,6 @@
       }
     },
     {
-      "id": "838692284777496596",
-      "username": "kober34",
-      "discriminator": "0",
-      "displayName": "kober",
-      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "813739514328907777",
       "username": "medyx_",
       "discriminator": "0",
@@ -502,6 +483,18 @@
         "name": "Lidi jsou jen otroci svých čistých otrokářů",
         "type": "ActivityType.custom"
       }
+    },
+    {
+      "id": "1350050079284920350",
+      "username": "alfonz0288",
+      "discriminator": "0",
+      "displayName": "Alfonz",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1350050079284920350/2c8a2b7a42a69e4b4970a15b8a5ce719.png?size=1024",
+      "status": "online",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -556,6 +549,25 @@
       "discriminator": "0",
       "displayName": "HB",
       "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "838692284777496596",
+      "username": "kober34",
+      "discriminator": "0",
+      "displayName": "kober",
+      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2580,5 +2592,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-14 11:30:07"
+  "updated_at": "2025-03-14 11:30:48"
 }
