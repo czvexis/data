@@ -352,7 +352,10 @@
       ],
       "highest_role_priority": 4,
       "bot": true,
-      "game": null
+      "game": {
+        "name": "/cmlevelhelp",
+        "type": "ActivityType.listening"
+      }
     },
     {
       "id": "1170795208624066721",
@@ -2642,5 +2645,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-03-22 17:28:35"
+  "updated_at": "2025-03-22 17:28:37"
 }
