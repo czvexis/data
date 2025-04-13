@@ -353,7 +353,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmlevelhelp",
+        "name": "/cmhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -397,7 +397,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -2625,5 +2625,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-04-13 03:09:46"
+  "updated_at": "2025-04-13 03:24:46"
 }
