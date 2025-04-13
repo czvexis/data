@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 9,
+  "online_count": 8,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -377,28 +377,6 @@
       "game": {
         "name": "/help pro help",
         "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "729987736659951680",
-      "username": "Autorole",
-      "discriminator": "8170",
-      "displayName": "Autorole",
-      "avatar_url": "https://cdn.discordapp.com/avatars/729987736659951680/33118b9646d5ae01cc0c7f697c689bfa.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1320014113669386312",
-          "name": "Bot 🤖",
-          "color": "#da004e",
-          "priority": 6
-        }
-      ],
-      "highest_role_priority": 6,
-      "bot": true,
-      "game": {
-        "name": "/vote",
-        "type": "ActivityType.listening"
       }
     },
     {
@@ -790,6 +768,25 @@
       ],
       "highest_role_priority": 5,
       "bot": false,
+      "game": null
+    },
+    {
+      "id": "729987736659951680",
+      "username": "Autorole",
+      "discriminator": "8170",
+      "displayName": "Autorole",
+      "avatar_url": "https://cdn.discordapp.com/avatars/729987736659951680/33118b9646d5ae01cc0c7f697c689bfa.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1320014113669386312",
+          "name": "Bot 🤖",
+          "color": "#da004e",
+          "priority": 6
+        }
+      ],
+      "highest_role_priority": 6,
+      "bot": true,
       "game": null
     },
     {
@@ -2625,5 +2622,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-04-13 03:24:46"
+  "updated_at": "2025-04-13 03:39:46"
 }
