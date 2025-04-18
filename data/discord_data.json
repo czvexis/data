@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 12,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -394,7 +394,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/invite",
         "type": "ActivityType.listening"
       }
     },
@@ -449,25 +449,6 @@
       }
     },
     {
-      "id": "565892861896425503",
-      "username": "letec_cz",
-      "discriminator": "0",
-      "displayName": "letec_cz",
-      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -488,25 +469,6 @@
         "name": "SKlauncher",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "879052215891947530",
-      "username": "luxi457",
-      "discriminator": "0",
-      "displayName": "Luxi",
-      "avatar_url": "https://cdn.discordapp.com/avatars/879052215891947530/e5fda7539b1a98378d759a2326055efe.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1333707002702204938",
@@ -567,18 +529,6 @@
         "name": "Lidi jsou jen otroci svých čistých otrokářů",
         "type": "ActivityType.custom"
       }
-    },
-    {
-      "id": "396704927004491786",
-      "username": "chleba.syr",
-      "discriminator": "0",
-      "displayName": "Chleba.syr",
-      "avatar_url": "https://cdn.discordapp.com/avatars/396704927004491786/7888beabc608d64edbe8b17d5f9b5357.png?size=1024",
-      "status": "idle",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1679,6 +1629,25 @@
       "game": null
     },
     {
+      "id": "565892861896425503",
+      "username": "letec_cz",
+      "discriminator": "0",
+      "displayName": "letec_cz",
+      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1219710032921362493",
       "username": "lotos_hcr2",
       "discriminator": "0",
@@ -1703,6 +1672,25 @@
       "discriminator": "0",
       "displayName": "luke874690",
       "avatar_url": "https://cdn.discordapp.com/avatars/1075696511205261362/37c69494ab3aac7e0d3f8459bcc6db47.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "879052215891947530",
+      "username": "luxi457",
+      "discriminator": "0",
+      "displayName": "Luxi",
+      "avatar_url": "https://cdn.discordapp.com/avatars/879052215891947530/e5fda7539b1a98378d759a2326055efe.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2380,6 +2368,18 @@
       "game": null
     },
     {
+      "id": "396704927004491786",
+      "username": "chleba.syr",
+      "discriminator": "0",
+      "displayName": "Chleba.syr",
+      "avatar_url": "https://cdn.discordapp.com/avatars/396704927004491786/7888beabc608d64edbe8b17d5f9b5357.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "716163763249610783",
       "username": "ctvrtek",
       "discriminator": "0",
@@ -2644,5 +2644,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-04-18 08:25:55"
+  "updated_at": "2025-04-18 08:40:55"
 }
