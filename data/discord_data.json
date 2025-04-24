@@ -402,7 +402,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/vote",
+        "name": "/help",
         "type": "ActivityType.listening"
       }
     },
@@ -457,11 +457,11 @@
       }
     },
     {
-      "id": "515795268235427851",
-      "username": "thuglife8675",
+      "id": "1279844342546170050",
+      "username": "valverde0416",
       "discriminator": "0",
-      "displayName": "ThugLife",
-      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
+      "displayName": "𝕃𝕖𝕨𝕚𝕤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1279844342546170050/fb4e11396034b69fbb14d6f1f6214c65.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -481,6 +481,25 @@
       "discriminator": "0",
       "displayName": "HB",
       "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "601462917745082389",
+      "username": "jano_420",
+      "discriminator": "0",
+      "displayName": "Jack_420",
+      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/6a8c6698768d4cd8f9f3e71b0f9ba48d.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -556,25 +575,6 @@
         "name": "SKlauncher",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "1279844342546170050",
-      "username": "valverde0416",
-      "discriminator": "0",
-      "displayName": "𝕃𝕖𝕨𝕚𝕤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1279844342546170050/fb4e11396034b69fbb14d6f1f6214c65.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1390,25 +1390,6 @@
       "game": null
     },
     {
-      "id": "601462917745082389",
-      "username": "jano_420",
-      "discriminator": "0",
-      "displayName": "Jack_420",
-      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/6a8c6698768d4cd8f9f3e71b0f9ba48d.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "809731554590326805",
       "username": "_jakar",
       "discriminator": "0",
@@ -1964,7 +1945,7 @@
       "username": "washerkoo",
       "discriminator": "0",
       "displayName": "Persil⚔",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1318704688073412710/b03abf61afce05921bd4e9c0eaaf8889.png?size=1024",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1318704688073412710/8a721a6d08bf9c29493b5f276985f35b.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2117,6 +2098,25 @@
       "discriminator": "0",
       "displayName": "Streatr",
       "avatar_url": "https://cdn.discordapp.com/avatars/906833435421728818/9f7be627edec77cf385af4177d53564b.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "515795268235427851",
+      "username": "thuglife8675",
+      "discriminator": "0",
+      "displayName": "ThugLife",
+      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2652,5 +2652,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-04-24 06:50:14"
+  "updated_at": "2025-04-24 07:05:14"
 }
