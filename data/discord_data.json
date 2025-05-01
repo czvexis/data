@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 127,
-  "online_count": 9,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -405,7 +405,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -503,6 +503,25 @@
       "discriminator": "0",
       "displayName": "HB",
       "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1257752593124560896",
+      "username": "tatapiklik",
+      "discriminator": "0",
+      "displayName": "Táta Piklik",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1257752593124560896/34404f6e8a2b9c55e04ce44080bd888f.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2185,25 +2204,6 @@
       "game": null
     },
     {
-      "id": "1257752593124560896",
-      "username": "tatapiklik",
-      "discriminator": "0",
-      "displayName": "Táta Piklik",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1257752593124560896/34404f6e8a2b9c55e04ce44080bd888f.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "767429136087121920",
       "username": "atom171",
       "discriminator": "0",
@@ -2668,5 +2668,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-05-01 06:36:49"
+  "updated_at": "2025-05-01 06:51:49"
 }
