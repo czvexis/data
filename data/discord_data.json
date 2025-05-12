@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 131,
-  "online_count": 8,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -366,6 +366,31 @@
       }
     },
     {
+      "id": "680657389359464463",
+      "username": "igorhnizdo",
+      "discriminator": "0",
+      "displayName": "Igor Hnízdo",
+      "avatar_url": "https://cdn.discordapp.com/avatars/680657389359464463/b7005463fa1cb3af47456974bad2071a.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1319318959325188197",
+          "name": "CO - Leader 🔰",
+          "color": "#1f8b4c",
+          "priority": 5
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 5,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1119249146977718272",
       "username": "arnold",
       "discriminator": "3353",
@@ -402,7 +427,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/help",
         "type": "ActivityType.listening"
       }
     },
@@ -452,7 +477,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [625707]",
+        "name": "YouTube. /help - [1] [625712]",
         "type": "ActivityType.watching"
       }
     },
@@ -656,31 +681,6 @@
       "discriminator": "0",
       "displayName": "Groot",
       "avatar_url": "https://cdn.discordapp.com/avatars/821814822521798717/00440fb7245fee31ce96c9a51513248a.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1319318959325188197",
-          "name": "CO - Leader 🔰",
-          "color": "#1f8b4c",
-          "priority": 5
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 5,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "680657389359464463",
-      "username": "igorhnizdo",
-      "discriminator": "0",
-      "displayName": "Igor Hnízdo",
-      "avatar_url": "https://cdn.discordapp.com/avatars/680657389359464463/b7005463fa1cb3af47456974bad2071a.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2753,5 +2753,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-05-12 04:40:38"
+  "updated_at": "2025-05-12 04:55:38"
 }
