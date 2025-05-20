@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 128,
-  "online_count": 17,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -419,7 +419,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -441,7 +441,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [627092]",
+        "name": "YouTube. /help - [1] [627090]",
         "type": "ActivityType.watching"
       }
     },
@@ -491,7 +491,7 @@
       "username": "dannik99",
       "discriminator": "0",
       "displayName": "DanNIK",
-      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/bac7f5011eb888107f163a90dd37ad8b.png?size=1024",
+      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -506,19 +506,13 @@
       "game": null
     },
     {
-      "id": "1316481745251471416",
-      "username": "bofor0253",
+      "id": "498924085527445527",
+      "username": "balator",
       "discriminator": "0",
-      "displayName": "BOFOR",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
-      "status": "idle",
+      "displayName": "Yim",
+      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "online",
       "roles": [
-        {
-          "id": "1319320315377090621",
-          "name": "Leader 👑",
-          "color": "#e74c3c",
-          "priority": 0
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
@@ -526,34 +520,12 @@
           "priority": 7
         }
       ],
-      "highest_role_priority": 0,
+      "highest_role_priority": 7,
       "bot": false,
-      "game": null
-    },
-    {
-      "id": "1022090790463361044",
-      "username": "kubicek4570",
-      "discriminator": "0",
-      "displayName": "Kubicek",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1022090790463361044/6c5996770c985bcd6e5b68131ff2ba04.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1319318959325188197",
-          "name": "CO - Leader 🔰",
-          "color": "#1f8b4c",
-          "priority": 5
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 5,
-      "bot": false,
-      "game": null
+      "game": {
+        "name": "Kingdom Come: Deliverance",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "674200696945508353",
@@ -581,28 +553,6 @@
       "game": null
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Jack Daniels enjoyer",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
       "id": "1208108590041399360",
       "username": "dxvidko",
       "discriminator": "0",
@@ -623,6 +573,25 @@
         "name": "BlueStacks 5",
         "type": "ActivityType.playing"
       }
+    },
+    {
+      "id": "1112367703634739321",
+      "username": "jancaveg",
+      "discriminator": "0",
+      "displayName": "Emiko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1112367703634739321/9231cb44b9a8fc1146e7f25a92043899.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "821631037259513886",
@@ -682,13 +651,19 @@
       "game": null
     },
     {
-      "id": "498924085527445527",
-      "username": "balator",
+      "id": "1316481745251471416",
+      "username": "bofor0253",
       "discriminator": "0",
-      "displayName": "Yim",
-      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "idle",
+      "displayName": "BOFOR",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
+      "status": "offline",
       "roles": [
+        {
+          "id": "1319320315377090621",
+          "name": "Leader 👑",
+          "color": "#e74c3c",
+          "priority": 0
+        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
@@ -696,12 +671,9 @@
           "priority": 7
         }
       ],
-      "highest_role_priority": 7,
+      "highest_role_priority": 0,
       "bot": false,
-      "game": {
-        "name": "Kingdom Come: Deliverance",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "525092851504381953",
@@ -829,6 +801,31 @@
       "game": null
     },
     {
+      "id": "1022090790463361044",
+      "username": "kubicek4570",
+      "discriminator": "0",
+      "displayName": "Kubicek",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1022090790463361044/6c5996770c985bcd6e5b68131ff2ba04.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1319318959325188197",
+          "name": "CO - Leader 🔰",
+          "color": "#1f8b4c",
+          "priority": 5
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 5,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "389785574686326784",
       "username": "meinfart",
       "discriminator": "0",
@@ -934,6 +931,25 @@
       "discriminator": "0",
       "displayName": "123♥",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "974623994709946419",
+      "username": "kristianiss",
+      "discriminator": "0",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1257,25 +1273,6 @@
       "discriminator": "0",
       "displayName": "dlouhanM",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1112367703634739321",
-      "username": "jancaveg",
-      "discriminator": "0",
-      "displayName": "Emiko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1112367703634739321/9231cb44b9a8fc1146e7f25a92043899.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2692,5 +2689,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-05-20 12:10:22"
+  "updated_at": "2025-05-20 12:25:22"
 }
