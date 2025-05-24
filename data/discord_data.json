@@ -375,7 +375,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/vote",
         "type": "ActivityType.listening"
       }
     },
@@ -425,7 +425,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [627843]",
+        "name": "YouTube. /help - [1] [627846]",
         "type": "ActivityType.watching"
       }
     },
@@ -449,11 +449,11 @@
       "game": null
     },
     {
-      "id": "991697702142353490",
-      "username": "petras_7",
+      "id": "565892861896425503",
+      "username": "letec_cz",
       "discriminator": "0",
-      "displayName": "P A V E L",
-      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
+      "displayName": "letec_cz",
+      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -1699,25 +1699,6 @@
       "game": null
     },
     {
-      "id": "565892861896425503",
-      "username": "letec_cz",
-      "discriminator": "0",
-      "displayName": "letec_cz",
-      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1219710032921362493",
       "username": "lotos_hcr2",
       "discriminator": "0",
@@ -1951,6 +1932,25 @@
       "discriminator": "0",
       "displayName": "Ondrej",
       "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "991697702142353490",
+      "username": "petras_7",
+      "discriminator": "0",
+      "displayName": "P A V E L",
+      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2690,5 +2690,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-05-25 01:35:32"
+  "updated_at": "2025-05-25 01:50:32"
 }
