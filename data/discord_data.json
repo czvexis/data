@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 11,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -371,7 +371,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/invite",
+        "name": "/help",
         "type": "ActivityType.listening"
       }
     },
@@ -395,28 +395,6 @@
       "game": {
         "name": "YouTube. /help - [1] [...]",
         "type": "ActivityType.watching"
-      }
-    },
-    {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "World of Tanks",
-        "type": "ActivityType.playing"
       }
     },
     {
@@ -476,11 +454,11 @@
       "game": null
     },
     {
-      "id": "717489236546158852",
-      "username": "cutry68",
+      "id": "974623994709946419",
+      "username": "kristianiss",
       "discriminator": "0",
-      "displayName": "Cutty68",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -498,7 +476,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Jack Daniels enjoyer",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "624327818783752203",
@@ -860,31 +841,6 @@
       "game": null
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "868773176384028702",
       "username": "maresicek",
       "discriminator": "0",
@@ -1074,6 +1030,31 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "717489236546158852",
+      "username": "cutry68",
+      "discriminator": "0",
+      "displayName": "Cutty68",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1793,6 +1774,25 @@
       "discriminator": "0",
       "displayName": "M!$tr Ž!žl@",
       "avatar_url": "https://cdn.discordapp.com/avatars/1279718438612238396/ad2e69b31d4a25e6d16824f15b8e6f02.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2746,5 +2746,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-06-01 00:40:30"
+  "updated_at": "2025-06-01 00:55:30"
 }
