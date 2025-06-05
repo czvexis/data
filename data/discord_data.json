@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 14,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -332,6 +332,37 @@
       }
     },
     {
+      "id": "674200696945508353",
+      "username": "motlas",
+      "discriminator": "0",
+      "displayName": "motlas",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1319318959325188197",
+          "name": "CO - Leader 🔰",
+          "color": "#1f8b4c",
+          "priority": 5
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 5,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1119249146977718272",
       "username": "arnold",
       "discriminator": "3353",
@@ -368,7 +399,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/help",
+        "name": "/invite",
         "type": "ActivityType.listening"
       }
     },
@@ -390,8 +421,30 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [629652]",
+        "name": "YouTube. /help - [1] [629654]",
         "type": "ActivityType.watching"
+      }
+    },
+    {
+      "id": "842030953547038750",
+      "username": "kubanczzz",
+      "discriminator": "0",
+      "displayName": "69|KubaYT🤑💵",
+      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/ecba88fc7f5a576a90cea196f9db2f90.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Minecraft",
+        "type": "ActivityType.playing"
       }
     },
     {
@@ -415,25 +468,6 @@
         "name": "Fortnite",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "934764149731389471",
@@ -463,50 +497,6 @@
       "discriminator": "0",
       "displayName": "Alfonz",
       "avatar_url": "https://cdn.discordapp.com/avatars/1350050079284920350/2c8a2b7a42a69e4b4970a15b8a5ce719.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "379687101614129153",
-      "username": "arkephalos",
-      "discriminator": "0",
-      "displayName": "Arkephalos",
-      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1049751005773967421",
-      "username": "dankos.69",
-      "discriminator": "0",
-      "displayName": "DnD|Dankos",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/3eeb12b23c09fe54f9d1255c75a91643.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -558,6 +548,44 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "879052215891947530",
+      "username": "luxi457",
+      "discriminator": "0",
+      "displayName": "Luxi",
+      "avatar_url": "https://cdn.discordapp.com/avatars/879052215891947530/e5fda7539b1a98378d759a2326055efe.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -811,37 +839,6 @@
       "game": null
     },
     {
-      "id": "674200696945508353",
-      "username": "motlas",
-      "discriminator": "0",
-      "displayName": "motlas",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1319318959325188197",
-          "name": "CO - Leader 🔰",
-          "color": "#1f8b4c",
-          "priority": 5
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 5,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "745577911666606152",
       "username": "humis472",
       "discriminator": "0",
@@ -917,11 +914,11 @@
       "game": null
     },
     {
-      "id": "842030953547038750",
-      "username": "kubanczzz",
+      "id": "974623994709946419",
+      "username": "kristianiss",
       "discriminator": "0",
-      "displayName": "69|KubaYT🤑💵",
-      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/ecba88fc7f5a576a90cea196f9db2f90.png?size=1024",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -929,6 +926,12 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -936,11 +939,11 @@
       "game": null
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
+      "id": "379687101614129153",
+      "username": "arkephalos",
       "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
+      "displayName": "Arkephalos",
+      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1213,6 +1216,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1049751005773967421",
+      "username": "dankos.69",
+      "discriminator": "0",
+      "displayName": "DnD|Dankos",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/3eeb12b23c09fe54f9d1255c75a91643.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -1756,25 +1778,6 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "879052215891947530",
-      "username": "luxi457",
-      "discriminator": "0",
-      "displayName": "Luxi",
-      "avatar_url": "https://cdn.discordapp.com/avatars/879052215891947530/e5fda7539b1a98378d759a2326055efe.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2752,5 +2755,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-06-05 14:46:55"
+  "updated_at": "2025-06-05 15:01:55"
 }
