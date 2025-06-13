@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 10,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -371,7 +371,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "/vote",
+        "name": "/invite",
         "type": "ActivityType.listening"
       }
     },
@@ -393,7 +393,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [630911]",
+        "name": "YouTube. /help - [1] [630910]",
         "type": "ActivityType.watching"
       }
     },
@@ -467,11 +467,11 @@
       "game": null
     },
     {
-      "id": "601462917745082389",
-      "username": "jano_420",
+      "id": "650231978980802560",
+      "username": "ondrej7780",
       "discriminator": "0",
-      "displayName": "Jack_420",
-      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/c03c5b0a866e4da33f03aad47b117a77.png?size=1024",
+      "displayName": "Ondrej",
+      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -506,18 +506,6 @@
         "name": "Kingdom Come: Deliverance II",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "812405489564254311",
-      "username": "lordignor",
-      "discriminator": "0",
-      "displayName": "Lord Ignor",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "idle",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1387,6 +1375,25 @@
       "game": null
     },
     {
+      "id": "601462917745082389",
+      "username": "jano_420",
+      "discriminator": "0",
+      "displayName": "Jack_420",
+      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/c03c5b0a866e4da33f03aad47b117a77.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "809731554590326805",
       "username": "_jakar",
       "discriminator": "0",
@@ -1928,25 +1935,6 @@
       "discriminator": "0",
       "displayName": "Nývlt",
       "avatar_url": "https://cdn.discordapp.com/avatars/1069093666800549949/c6d46eb7a2f24c8654d1993b11dbe31e.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "650231978980802560",
-      "username": "ondrej7780",
-      "discriminator": "0",
-      "displayName": "Ondrej",
-      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2635,6 +2623,18 @@
       "game": null
     },
     {
+      "id": "812405489564254311",
+      "username": "lordignor",
+      "discriminator": "0",
+      "displayName": "Lord Ignor",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1074350241928720435",
       "username": "matysekkt.",
       "discriminator": "0",
@@ -2755,5 +2755,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-06-13 07:46:12"
+  "updated_at": "2025-06-13 08:01:12"
 }
