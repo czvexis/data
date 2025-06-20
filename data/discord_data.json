@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 8,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -354,6 +354,28 @@
       }
     },
     {
+      "id": "729987736659951680",
+      "username": "Autorole",
+      "discriminator": "8170",
+      "displayName": "Autorole",
+      "avatar_url": "https://cdn.discordapp.com/avatars/729987736659951680/33118b9646d5ae01cc0c7f697c689bfa.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1320014113669386312",
+          "name": "Bot 🤖",
+          "color": "#da004e",
+          "priority": 6
+        }
+      ],
+      "highest_role_priority": 6,
+      "bot": true,
+      "game": {
+        "name": "Out of service by July 1st",
+        "type": "ActivityType.listening"
+      }
+    },
+    {
       "id": "1385677445373624350",
       "username": "Autorole",
       "discriminator": "3678",
@@ -424,17 +446,17 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [1] [632221]",
+        "name": "YouTube. /help - [1] [632228]",
         "type": "ActivityType.watching"
       }
     },
     {
-      "id": "288771977416671232",
-      "username": "7macejko7",
+      "id": "868773176384028702",
+      "username": "maresicek",
       "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/125af0f0fa353289506d0e6057fbad04.png?size=1024",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -453,6 +475,25 @@
       "discriminator": "0",
       "displayName": "Dxvidko",
       "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/769fdf08922a5dff1fd58aacbd4e5908.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -697,25 +738,6 @@
       "game": null
     },
     {
-      "id": "729987736659951680",
-      "username": "Autorole",
-      "discriminator": "8170",
-      "displayName": "Autorole",
-      "avatar_url": "https://cdn.discordapp.com/avatars/729987736659951680/33118b9646d5ae01cc0c7f697c689bfa.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1320014113669386312",
-          "name": "Bot 🤖",
-          "color": "#da004e",
-          "priority": 6
-        }
-      ],
-      "highest_role_priority": 6,
-      "bot": true,
-      "game": null
-    },
-    {
       "id": "449216480685457408",
       "username": "._123_",
       "discriminator": "0",
@@ -759,25 +781,6 @@
       "discriminator": "0",
       "displayName": "Aares",
       "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "868773176384028702",
-      "username": "maresicek",
-      "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/125af0f0fa353289506d0e6057fbad04.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2797,5 +2800,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-06-20 23:12:09"
+  "updated_at": "2025-06-20 23:27:09"
 }
