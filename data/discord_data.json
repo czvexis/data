@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 12,
+  "online_count": 11,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -327,7 +327,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmlevelhelp",
+        "name": "/cmhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -352,6 +352,31 @@
         "name": "/help pro help",
         "type": "ActivityType.playing"
       }
+    },
+    {
+      "id": "1385677445373624350",
+      "username": "Autoroles",
+      "discriminator": "3678",
+      "displayName": "Autoroles",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1385677445373624350/5cd435aad627498b2aa1af4b973ec121.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1320014113669386312",
+          "name": "Bot 🤖",
+          "color": "#da004e",
+          "priority": 6
+        },
+        {
+          "id": "1386253457920491654",
+          "name": "Autoroles",
+          "color": "#000000",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 6,
+      "bot": true,
+      "game": null
     },
     {
       "id": "456633518882160642",
@@ -398,43 +423,6 @@
       }
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Jack Daniels enjoyer",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
-      "id": "1245088702573576243",
-      "username": "yll.ihxh",
-      "discriminator": "0",
-      "displayName": "Bojleri",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/d875447abb06482e6f6168386f16d7b3.png?size=1024",
-      "status": "online",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": {
-        "name": "im a eagle",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
       "id": "1022090790463361044",
       "username": "kubicek4570",
       "discriminator": "0",
@@ -466,11 +454,11 @@
       "game": null
     },
     {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
+      "id": "974623994709946419",
+      "username": "kristianiss",
       "discriminator": "0",
-      "displayName": "Dxvidko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/769fdf08922a5dff1fd58aacbd4e5908.png?size=1024",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -482,14 +470,17 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Jack Daniels enjoyer",
+        "type": "ActivityType.custom"
+      }
     },
     {
-      "id": "601462917745082389",
-      "username": "jano_420",
+      "id": "1208108590041399360",
+      "username": "dxvidko",
       "discriminator": "0",
-      "displayName": "Jack_420",
-      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/c03c5b0a866e4da33f03aad47b117a77.png?size=1024",
+      "displayName": "Dxvidko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/769fdf08922a5dff1fd58aacbd4e5908.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -743,31 +734,6 @@
           "name": "Bot 🤖",
           "color": "#da004e",
           "priority": 6
-        }
-      ],
-      "highest_role_priority": 6,
-      "bot": true,
-      "game": null
-    },
-    {
-      "id": "1385677445373624350",
-      "username": "Autoroles",
-      "discriminator": "3678",
-      "displayName": "Autoroles",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1385677445373624350/5cd435aad627498b2aa1af4b973ec121.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1320014113669386312",
-          "name": "Bot 🤖",
-          "color": "#da004e",
-          "priority": 6
-        },
-        {
-          "id": "1386253457920491654",
-          "name": "Autoroles",
-          "color": "#000000",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 6,
@@ -1380,6 +1346,25 @@
       "discriminator": "0",
       "displayName": "IS@@C",
       "avatar_url": "https://cdn.discordapp.com/avatars/1110022213421256764/75ba00574cfd3490f89d0cc4adf69bcf.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "601462917745082389",
+      "username": "jano_420",
+      "discriminator": "0",
+      "displayName": "Jack_420",
+      "avatar_url": "https://cdn.discordapp.com/avatars/601462917745082389/c03c5b0a866e4da33f03aad47b117a77.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2548,6 +2533,18 @@
       "game": null
     },
     {
+      "id": "1245088702573576243",
+      "username": "yll.ihxh",
+      "discriminator": "0",
+      "displayName": "Bojleri",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/d875447abb06482e6f6168386f16d7b3.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "957241061539999744",
       "username": "bongo7923",
       "discriminator": "0",
@@ -2812,5 +2809,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-07-05 14:02:31"
+  "updated_at": "2025-07-05 14:11:14"
 }
