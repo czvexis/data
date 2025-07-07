@@ -439,7 +439,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Subnautica",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1350050079284920350",
@@ -2775,5 +2778,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-07-07 06:20:45"
+  "updated_at": "2025-07-07 06:35:45"
 }
