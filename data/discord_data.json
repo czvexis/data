@@ -392,26 +392,25 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Minecraft",
+        "type": "ActivityType.playing"
+      }
     },
     {
-      "id": "863789679270559764",
-      "username": "vojtafz",
+      "id": "1245088702573576243",
+      "username": "yll.ihxh",
       "discriminator": "0",
-      "displayName": "Fake Zorro",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "displayName": "Bojleri",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/c6d90075fe1cf4261a3ef3964db83e16.png?size=1024",
       "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
+      "roles": [],
+      "highest_role_priority": 9999,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "im a eagle",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "1208108590041399360",
@@ -1174,6 +1173,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "863789679270559764",
+      "username": "vojtafz",
+      "discriminator": "0",
+      "displayName": "Fake Zorro",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2475,18 +2493,6 @@
       "game": null
     },
     {
-      "id": "1245088702573576243",
-      "username": "yll.ihxh",
-      "discriminator": "0",
-      "displayName": "Bojleri",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/c6d90075fe1cf4261a3ef3964db83e16.png?size=1024",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "957241061539999744",
       "username": "bongo7923",
       "discriminator": "0",
@@ -2763,5 +2769,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-07-31 08:30:20"
+  "updated_at": "2025-07-31 08:45:20"
 }
