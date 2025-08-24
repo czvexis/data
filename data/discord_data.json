@@ -399,7 +399,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [642927]",
+        "name": "YouTube. /help - [6] [642929]",
         "type": "ActivityType.watching"
       }
     },
@@ -420,7 +420,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Roblox",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "498924085527445527",
@@ -2788,5 +2791,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-08-24 09:45:20"
+  "updated_at": "2025-08-24 10:00:20"
 }
