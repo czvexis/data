@@ -396,9 +396,28 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [643366]",
+        "name": "YouTube. /help - [6] [643364]",
         "type": "ActivityType.watching"
       }
+    },
+    {
+      "id": "1173675001635930173",
+      "username": "agentsandwitch78",
+      "discriminator": "0",
+      "displayName": "AgentSpyware",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1173675001635930173/328eb53cdadb2fdd5138088b6a0cf9c3.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "498924085527445527",
@@ -421,25 +440,6 @@
         "name": "Ascension: Deckbuilding Game",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "863789679270559764",
-      "username": "vojtafz",
-      "discriminator": "0",
-      "displayName": "Fake Zorro",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "838692284777496596",
@@ -819,25 +819,6 @@
       "discriminator": "0",
       "displayName": "ae",
       "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1173675001635930173",
-      "username": "agentsandwitch78",
-      "discriminator": "0",
-      "displayName": "AgentSpyware",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1173675001635930173/328eb53cdadb2fdd5138088b6a0cf9c3.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1249,6 +1230,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "863789679270559764",
+      "username": "vojtafz",
+      "discriminator": "0",
+      "displayName": "Fake Zorro",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2788,5 +2788,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-08-27 09:00:20"
+  "updated_at": "2025-08-27 09:15:20"
 }
