@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 8,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -399,28 +399,9 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [643491]",
+        "name": "YouTube. /help - [6] [643492]",
         "type": "ActivityType.watching"
       }
-    },
-    {
-      "id": "607553776735223828",
-      "username": "punk.rocker",
-      "discriminator": "0",
-      "displayName": "punk.rocker",
-      "avatar_url": "https://cdn.discordapp.com/avatars/607553776735223828/3cfd0c77eb42a83b95cd84a9c1711958.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "498924085527445527",
@@ -443,6 +424,50 @@
         "name": "Ascension: Deckbuilding Game",
         "type": "ActivityType.playing"
       }
+    },
+    {
+      "id": "863789679270559764",
+      "username": "vojtafz",
+      "discriminator": "0",
+      "displayName": "Fake Zorro",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "838692284777496596",
+      "username": "kober34",
+      "discriminator": "0",
+      "displayName": "kober",
+      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1333707002702204938",
@@ -1190,25 +1215,6 @@
       "game": null
     },
     {
-      "id": "863789679270559764",
-      "username": "vojtafz",
-      "discriminator": "0",
-      "displayName": "Fake Zorro",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1201581956429779055",
       "username": "faesstik",
       "discriminator": "0",
@@ -1575,31 +1581,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "838692284777496596",
-      "username": "kober34",
-      "discriminator": "0",
-      "displayName": "kober",
-      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2066,6 +2047,25 @@
       "discriminator": "0",
       "displayName": "Petr177",
       "avatar_url": "https://cdn.discordapp.com/avatars/1402360150257434694/f7f2e9361e8a54ce6e72580ac7b967af.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "607553776735223828",
+      "username": "punk.rocker",
+      "discriminator": "0",
+      "displayName": "punk.rocker",
+      "avatar_url": "https://cdn.discordapp.com/avatars/607553776735223828/3cfd0c77eb42a83b95cd84a9c1711958.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2791,5 +2791,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-08-28 08:30:20"
+  "updated_at": "2025-08-28 08:45:20"
 }
