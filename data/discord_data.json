@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 9,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -401,6 +401,25 @@
       }
     },
     {
+      "id": "449216480685457408",
+      "username": "._123_",
+      "discriminator": "0",
+      "displayName": "123♥",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -420,23 +439,19 @@
       "game": null
     },
     {
-      "id": "449216480685457408",
-      "username": "._123_",
+      "id": "1245088702573576243",
+      "username": "yll.ihxh",
       "discriminator": "0",
-      "displayName": "123♥",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
+      "displayName": "Bojleri",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/972436c912904bf936ec8262d8cde1ca.png?size=1024",
+      "status": "online",
+      "roles": [],
+      "highest_role_priority": 9999,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "im a eagle",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "1208108590041399360",
@@ -2497,18 +2512,6 @@
       "game": null
     },
     {
-      "id": "1245088702573576243",
-      "username": "yll.ihxh",
-      "discriminator": "0",
-      "displayName": "Bojleri",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/972436c912904bf936ec8262d8cde1ca.png?size=1024",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "957241061539999744",
       "username": "bongo7923",
       "discriminator": "0",
@@ -2785,5 +2788,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-01 14:39:15"
+  "updated_at": "2025-09-01 14:54:15"
 }
