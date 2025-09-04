@@ -396,9 +396,28 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [644280]",
+        "name": "YouTube. /help - [6] [644281]",
         "type": "ActivityType.watching"
       }
+    },
+    {
+      "id": "1279718438612238396",
+      "username": "mistr_zizla",
+      "discriminator": "0",
+      "displayName": "M!$tr Ž!žl@",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1279718438612238396/ad2e69b31d4a25e6d16824f15b8e6f02.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "515795268235427851",
@@ -425,7 +444,7 @@
       "discriminator": "0",
       "displayName": "Yim",
       "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "online",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -438,21 +457,6 @@
       "bot": false,
       "game": {
         "name": "Ascension: Deckbuilding Game",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "1056658848838058045",
-      "username": "j3nizz",
-      "discriminator": "0",
-      "displayName": "乂𝕲𝔥𝔬𝔰𝔱 𝔟𝔬𝔶乂",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1056658848838058045/1f9d4d274d7c6fda11de461453a2384e.png?size=1024",
-      "status": "idle",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": {
-        "name": "Rocket League®",
         "type": "ActivityType.playing"
       }
     },
@@ -1704,25 +1708,6 @@
       "game": null
     },
     {
-      "id": "1279718438612238396",
-      "username": "mistr_zizla",
-      "discriminator": "0",
-      "displayName": "M!$tr Ž!žl@",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1279718438612238396/ad2e69b31d4a25e6d16824f15b8e6f02.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "288771977416671232",
       "username": "7macejko7",
       "discriminator": "0",
@@ -2786,7 +2771,19 @@
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "1056658848838058045",
+      "username": "j3nizz",
+      "discriminator": "0",
+      "displayName": "乂𝕲𝔥𝔬𝔰𝔱 𝔟𝔬𝔶乂",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1056658848838058045/1f9d4d274d7c6fda11de461453a2384e.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
     }
   ],
-  "updated_at": "2025-09-04 06:54:15"
+  "updated_at": "2025-09-04 07:09:15"
 }
