@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 7,
+  "online_count": 6,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -398,25 +398,6 @@
       "game": null
     },
     {
-      "id": "972547768461713538",
-      "username": "dannik99",
-      "discriminator": "0",
-      "displayName": "DanNIK",
-      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "515795268235427851",
       "username": "thuglife8675",
       "discriminator": "0",
@@ -458,7 +439,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Lunar Client",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -987,6 +971,25 @@
       "discriminator": "0",
       "displayName": "Dankos",
       "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/fbfb721d4f963d4e9c92bec99cd6375e.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "972547768461713538",
+      "username": "dannik99",
+      "discriminator": "0",
+      "displayName": "DanNIK",
+      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2779,5 +2782,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-04 21:54:15"
+  "updated_at": "2025-09-04 22:09:15"
 }
