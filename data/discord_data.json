@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 130,
-  "online_count": 9,
+  "online_count": 8,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -327,7 +327,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/modhelp",
+        "name": "/cmhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -382,11 +382,11 @@
       }
     },
     {
-      "id": "972547768461713538",
-      "username": "dannik99",
+      "id": "974623994709946419",
+      "username": "kristianiss",
       "discriminator": "0",
-      "displayName": "DanNIK",
-      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -399,8 +399,8 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": {
-        "name": "F1® Manager 2024",
-        "type": "ActivityType.playing"
+        "name": "1984",
+        "type": "ActivityType.custom"
       }
     },
     {
@@ -442,21 +442,6 @@
       "game": {
         "name": "Ascension: Deckbuilding Game",
         "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "1245088702573576243",
-      "username": "yll.ihxh",
-      "discriminator": "0",
-      "displayName": "Bojleri",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/48358f500718880a6f3ff7ad8afdd1f5.png?size=1024",
-      "status": "online",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": {
-        "name": "im a eagle",
-        "type": "ActivityType.custom"
       }
     },
     {
@@ -769,25 +754,6 @@
       "game": null
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "868773176384028702",
       "username": "maresicek",
       "discriminator": "0",
@@ -1052,6 +1018,25 @@
       "discriminator": "0",
       "displayName": "Dankos",
       "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/fbfb721d4f963d4e9c92bec99cd6375e.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "972547768461713538",
+      "username": "dannik99",
+      "discriminator": "0",
+      "displayName": "DanNIK",
+      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2518,6 +2503,18 @@
       "game": null
     },
     {
+      "id": "1245088702573576243",
+      "username": "yll.ihxh",
+      "discriminator": "0",
+      "displayName": "Bojleri",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1245088702573576243/48358f500718880a6f3ff7ad8afdd1f5.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "957241061539999744",
       "username": "bongo7923",
       "discriminator": "0",
@@ -2794,5 +2791,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-08 12:54:15"
+  "updated_at": "2025-09-08 13:09:15"
 }
