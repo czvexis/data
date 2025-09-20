@@ -396,7 +396,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [645981]",
+        "name": "YouTube. /help - [6] [645984]",
         "type": "ActivityType.watching"
       }
     },
@@ -439,7 +439,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Anno 1800",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1170795208624066721",
@@ -2751,5 +2754,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-20 21:39:15"
+  "updated_at": "2025-09-20 21:54:15"
 }
