@@ -393,28 +393,9 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [646186]",
+        "name": "YouTube. /help - [6] [646187]",
         "type": "ActivityType.watching"
       }
-    },
-    {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "838692284777496596",
@@ -422,7 +403,7 @@
       "discriminator": "0",
       "displayName": "kober",
       "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
-      "status": "idle",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -431,16 +412,29 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -479,12 +473,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -507,12 +495,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -520,38 +502,23 @@
       "game": null
     },
     {
-      "id": "1304510210253127691",
-      "username": "cz.vexis",
+      "id": "973631931944173599",
+      "username": "skuby4546",
       "discriminator": "0",
-      "displayName": "Vexis ⚔",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
-      "status": "dnd",
+      "displayName": "Škuby",
+      "avatar_url": "https://cdn.discordapp.com/avatars/973631931944173599/33fe4838b5eac8edfcb6821b5b353e9f.png?size=1024",
+      "status": "idle",
       "roles": [
-        {
-          "id": "1319319606082404465",
-          "name": "Moderátor ⚜️",
-          "color": "#3498db",
-          "priority": 3
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
-      "highest_role_priority": 3,
+      "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "New Autoroles bot ⬇️",
-        "type": "ActivityType.custom"
-      }
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -572,12 +539,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -611,12 +572,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -646,15 +601,40 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 2,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1304510210253127691",
+      "username": "cz.vexis",
+      "discriminator": "0",
+      "displayName": "Vexis ⚔",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1319319606082404465",
+          "name": "Moderátor ⚜️",
+          "color": "#3498db",
+          "priority": 3
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 3,
       "bot": false,
       "game": null
     },
@@ -677,12 +657,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 5,
@@ -708,12 +682,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -747,12 +715,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -776,12 +738,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -801,12 +757,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -826,12 +776,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -851,12 +795,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -876,12 +814,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -901,12 +833,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -926,12 +852,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -957,12 +877,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -982,12 +896,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1007,12 +915,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1032,12 +934,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1057,12 +953,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1082,12 +972,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1107,12 +991,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1157,12 +1035,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1182,12 +1054,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1207,12 +1073,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1232,12 +1092,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1257,12 +1111,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1282,12 +1130,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1307,12 +1149,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1353,12 +1189,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -1384,12 +1214,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -1413,12 +1237,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1438,12 +1256,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1463,12 +1275,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1488,12 +1294,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1513,12 +1313,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1538,12 +1332,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1563,12 +1351,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1607,12 +1389,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1632,12 +1408,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1657,12 +1427,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1682,12 +1446,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1707,12 +1465,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1732,12 +1484,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1757,12 +1503,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1782,12 +1522,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1807,12 +1541,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -1838,12 +1566,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1863,12 +1585,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1888,12 +1604,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -1919,12 +1629,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1944,12 +1648,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1969,12 +1667,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1994,12 +1686,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -2025,12 +1711,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2050,12 +1730,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2075,12 +1749,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2100,12 +1768,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2125,12 +1787,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2150,12 +1806,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2175,12 +1825,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -2206,12 +1850,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2231,12 +1869,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2256,12 +1888,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -2287,12 +1913,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2333,12 +1953,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -2362,12 +1976,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2387,12 +1995,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -2418,12 +2020,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2443,12 +2039,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2489,12 +2079,6 @@
           "priority": 7
         },
         {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        },
-        {
           "id": "1376286594239041577",
           "name": "Člen ČM",
           "color": "#e67e22",
@@ -2518,12 +2102,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2543,12 +2121,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         },
         {
           "id": "1376286594239041577",
@@ -2574,12 +2146,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2599,12 +2165,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2624,12 +2184,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2649,12 +2203,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2674,12 +2222,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2699,12 +2241,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2724,12 +2260,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2749,12 +2279,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2774,12 +2298,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2799,12 +2317,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2824,12 +2336,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2849,12 +2355,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2874,12 +2374,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2918,37 +2412,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "973631931944173599",
-      "username": "skuby4546",
-      "discriminator": "0",
-      "displayName": "Škuby",
-      "avatar_url": "https://cdn.discordapp.com/avatars/973631931944173599/33fe4838b5eac8edfcb6821b5b353e9f.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2968,12 +2431,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2993,12 +2450,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -3012,14 +2463,7 @@
       "displayName": "BLESK.CZ",
       "avatar_url": "https://cdn.discordapp.com/avatars/1316468298258448399/289d9b32a62e432cf4ac93b3e0d2ab4c.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3031,14 +2475,7 @@
       "displayName": "bongo7923",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3050,14 +2487,7 @@
       "displayName": "Ctvrtek",
       "avatar_url": "https://cdn.discordapp.com/avatars/716163763249610783/80728f746e426ae460fd8b483f3b73eb.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3069,14 +2499,7 @@
       "displayName": "Deniska1",
       "avatar_url": "https://cdn.discordapp.com/avatars/1075128545942184051/f8fdd43e5d0570177640ac1820bf0f39.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3088,14 +2511,7 @@
       "displayName": "Dr.Peacock",
       "avatar_url": "https://cdn.discordapp.com/avatars/1267544551963234437/4b9bcde56449f5eecff7a7007711fcc7.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3107,14 +2523,7 @@
       "displayName": "Dvori \"Velvyslanec\"",
       "avatar_url": "https://cdn.discordapp.com/avatars/587681777708171277/1720966661015cd3eca025674b17e7e6.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3126,14 +2535,7 @@
       "displayName": "Enav",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3145,14 +2547,7 @@
       "displayName": "Hemeroid",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/3.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3164,14 +2559,7 @@
       "displayName": "Hrošík",
       "avatar_url": "https://cdn.discordapp.com/avatars/1154874444288905259/2b57be0a41e58d190dedc1b73ecfbe34.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3183,14 +2571,7 @@
       "displayName": "jirka131757",
       "avatar_url": "https://cdn.discordapp.com/avatars/695736480693223425/18cc5b854950fee719d92095a446df57.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3202,14 +2583,7 @@
       "displayName": "JirkaCZ",
       "avatar_url": "https://cdn.discordapp.com/avatars/1071346481090531338/1628fc11e7961d85181295493426b775.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3221,14 +2595,7 @@
       "displayName": "Kadim 🇺🇦",
       "avatar_url": "https://cdn.discordapp.com/avatars/667062749779722253/186089454b539b5b52b6f33ce94000d9.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3240,14 +2607,7 @@
       "displayName": "ladishappy",
       "avatar_url": "https://cdn.discordapp.com/avatars/1088883918175993896/f24b93ddb6a4c71db58f7863a6a3c1db.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3259,14 +2619,7 @@
       "displayName": "Lord Ignor",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3278,14 +2631,7 @@
       "displayName": "matysekkt",
       "avatar_url": "https://cdn.discordapp.com/avatars/1074350241928720435/cc4b2917e6d201073a160cdde6a9ee72.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3309,14 +2655,7 @@
       "displayName": "prášek Arial",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3328,14 +2667,7 @@
       "displayName": "satanaaas",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3347,14 +2679,7 @@
       "displayName": "speedy",
       "avatar_url": "https://cdn.discordapp.com/avatars/1067143345010376775/5445ffd7ffb201a98393cbdf684ea4b1.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3366,14 +2691,7 @@
       "displayName": "TobiasCz",
       "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3385,14 +2703,7 @@
       "displayName": "tutencham1",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3404,14 +2715,7 @@
       "displayName": "vedronika.",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3423,14 +2727,7 @@
       "displayName": "Velbloudíprd",
       "avatar_url": "https://cdn.discordapp.com/avatars/1036379494379954266/4f4dc6819f45462005e8f8788ab70e31.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
@@ -3442,18 +2739,11 @@
       "displayName": "乂𝕲𝔥𝔬𝔰𝔱 𝔟𝔬𝔶乂",
       "avatar_url": "https://cdn.discordapp.com/avatars/1056658848838058045/1f9d4d274d7c6fda11de461453a2384e.png?size=1024",
       "status": "offline",
-      "roles": [
-        {
-          "id": "1419575169361641482",
-          "name": "Test role",
-          "color": "#2ecc71",
-          "priority": 9999
-        }
-      ],
+      "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
     }
   ],
-  "updated_at": "2025-09-22 08:48:09"
+  "updated_at": "2025-09-22 09:03:09"
 }
