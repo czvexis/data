@@ -399,7 +399,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [6] [646444]",
+        "name": "YouTube. /help - [6] [646449]",
         "type": "ActivityType.watching"
       }
     },
@@ -420,10 +420,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Lunar Client",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "288771977416671232",
@@ -461,10 +458,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Ascension: Deckbuilding Game",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "1170795208624066721",
@@ -488,25 +482,6 @@
         }
       ],
       "highest_role_priority": 5,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "449216480685457408",
-      "username": "._123_",
-      "discriminator": "0",
-      "displayName": "123♥",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
       "bot": false,
       "game": null
     },
@@ -557,6 +532,25 @@
       "discriminator": "0",
       "displayName": "Mirek Dušín",
       "avatar_url": "https://cdn.discordapp.com/avatars/581048489463775232/5688e97eb51c022f0d35c58c56c5c810.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1264609580529225849",
+      "username": "peter850",
+      "discriminator": "0",
+      "displayName": "Peter850",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1264609580529225849/6c5996770c985bcd6e5b68131ff2ba04.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -826,6 +820,25 @@
         }
       ],
       "highest_role_priority": 5,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "449216480685457408",
+      "username": "._123_",
+      "discriminator": "0",
+      "displayName": "123♥",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
       "bot": false,
       "game": null
     },
@@ -2061,25 +2074,6 @@
       "game": null
     },
     {
-      "id": "1264609580529225849",
-      "username": "peter850",
-      "discriminator": "0",
-      "displayName": "Peter850",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1264609580529225849/6c5996770c985bcd6e5b68131ff2ba04.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1402360150257434694",
       "username": "petr177.",
       "discriminator": "0",
@@ -2779,5 +2773,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-24 19:33:09"
+  "updated_at": "2025-09-24 19:48:09"
 }
