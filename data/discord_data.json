@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 129,
-  "online_count": 11,
+  "online_count": 13,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -467,6 +467,28 @@
       }
     },
     {
+      "id": "972547768461713538",
+      "username": "dannik99",
+      "discriminator": "0",
+      "displayName": "DanNIK",
+      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "F1 2018",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
       "id": "524340420692672513",
       "username": "gamaglade",
       "discriminator": "0",
@@ -504,6 +526,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1333707002702204938",
+      "username": "spoker0413",
+      "discriminator": "0",
+      "displayName": "Spoker",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1333707002702204938/c1b828367ada93b793b68616571253ea.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -1080,25 +1121,6 @@
       "discriminator": "0",
       "displayName": "Dankos",
       "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/fbfb721d4f963d4e9c92bec99cd6375e.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "972547768461713538",
-      "username": "dannik99",
-      "discriminator": "0",
-      "displayName": "DanNIK",
-      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/917fa212bbd91047a707af813bfdf8d4.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2218,25 +2240,6 @@
       "game": null
     },
     {
-      "id": "1333707002702204938",
-      "username": "spoker0413",
-      "discriminator": "0",
-      "displayName": "Spoker",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1333707002702204938/c1b828367ada93b793b68616571253ea.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "906833435421728818",
       "username": "valec3495",
       "discriminator": "0",
@@ -2779,5 +2782,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-09-25 13:18:09"
+  "updated_at": "2025-09-25 13:33:09"
 }
