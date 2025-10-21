@@ -420,7 +420,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Ascension: Deckbuilding Game",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "838692284777496596",
@@ -2687,5 +2690,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-10-21 05:16:41"
+  "updated_at": "2025-10-21 05:31:41"
 }
