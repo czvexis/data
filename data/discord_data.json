@@ -433,7 +433,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [650455]",
+        "name": "YouTube. /help - [7] [650451]",
         "type": "ActivityType.watching"
       }
     },
@@ -443,6 +443,25 @@
       "discriminator": "0",
       "displayName": "ae",
       "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "883755159094702090",
+      "username": "callme3nity",
+      "discriminator": "0",
+      "displayName": "CallMe 3nity",
+      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/7938c11f8fc216c4b7c2dbeff7b1df04.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -682,21 +701,6 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": null
-    },
-    {
-      "id": "1056658848838058045",
-      "username": "j3nizz",
-      "discriminator": "0",
-      "displayName": "ϟɌɇfłɇxϟ",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1056658848838058045/1f9d4d274d7c6fda11de461453a2384e.png?size=1024",
-      "status": "idle",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": {
-        "name": "Rocket League®",
-        "type": "ActivityType.playing"
-      }
     },
     {
       "id": "960227453014532156",
@@ -1030,25 +1034,6 @@
       "discriminator": "0",
       "displayName": "c00c00s",
       "avatar_url": "https://cdn.discordapp.com/avatars/1056547885551988847/31ed23a82ae6e614c9922eb53340c433.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "883755159094702090",
-      "username": "callme3nity",
-      "discriminator": "0",
-      "displayName": "CallMe 3nity",
-      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/7938c11f8fc216c4b7c2dbeff7b1df04.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2704,7 +2689,19 @@
       "highest_role_priority": 9999,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "1056658848838058045",
+      "username": "j3nizz",
+      "discriminator": "0",
+      "displayName": "ϟɌɇfłɇxϟ",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1056658848838058045/1f9d4d274d7c6fda11de461453a2384e.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
     }
   ],
-  "updated_at": "2025-10-30 21:17:01"
+  "updated_at": "2025-10-30 21:32:01"
 }
