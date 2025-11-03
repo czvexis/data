@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 12,
+  "online_count": 14,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -396,16 +396,16 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [650858]",
+        "name": "YouTube. /help - [7] [650851]",
         "type": "ActivityType.watching"
       }
     },
     {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
+      "id": "868773176384028702",
+      "username": "maresicek",
       "discriminator": "0",
-      "displayName": "Davoo",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -420,11 +420,11 @@
       "game": null
     },
     {
-      "id": "524340420692672513",
-      "username": "gamaglade",
+      "id": "838692284777496596",
+      "username": "kober34",
       "discriminator": "0",
-      "displayName": "GamaGlade",
-      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
+      "displayName": "kober",
+      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -432,14 +432,17 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Hang Status",
-        "type": "ActivityType.unknown_6"
-      }
+      "game": null
     },
     {
       "id": "288771977416671232",
@@ -461,11 +464,11 @@
       "game": null
     },
     {
-      "id": "868773176384028702",
-      "username": "maresicek",
+      "id": "1208108590041399360",
+      "username": "dxvidko",
       "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "displayName": "Davoo",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -480,11 +483,11 @@
       "game": null
     },
     {
-      "id": "838692284777496596",
-      "username": "kober34",
+      "id": "524340420692672513",
+      "username": "gamaglade",
       "discriminator": "0",
-      "displayName": "kober",
-      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
+      "displayName": "GamaGlade",
+      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -492,12 +495,47 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Hang Status",
+        "type": "ActivityType.unknown_6"
+      }
+    },
+    {
+      "id": "674200696945508353",
+      "username": "motlas",
+      "discriminator": "0",
+      "displayName": "motlas",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "status": "idle",
+      "roles": [
         {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "650231978980802560",
+      "username": "ondrej7780",
+      "discriminator": "0",
+      "displayName": "Ondrej",
+      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -1903,49 +1941,11 @@
       "game": null
     },
     {
-      "id": "674200696945508353",
-      "username": "motlas",
-      "discriminator": "0",
-      "displayName": "motlas",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1069093666800549949",
       "username": "nyvlt",
       "discriminator": "0",
       "displayName": "Nývlt",
       "avatar_url": "https://cdn.discordapp.com/avatars/1069093666800549949/c6d46eb7a2f24c8654d1993b11dbe31e.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "650231978980802560",
-      "username": "ondrej7780",
-      "discriminator": "0",
-      "displayName": "Ondrej",
-      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2719,5 +2719,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-03 15:02:01"
+  "updated_at": "2025-11-03 15:17:01"
 }
