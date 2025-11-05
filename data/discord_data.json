@@ -393,7 +393,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [651068]",
+        "name": "YouTube. /help - [7] [651067]",
         "type": "ActivityType.watching"
       }
     },
@@ -433,7 +433,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Ascension: Deckbuilding Game",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "838692284777496596",
@@ -2710,5 +2713,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-05 12:47:01"
+  "updated_at": "2025-11-05 13:02:01"
 }
