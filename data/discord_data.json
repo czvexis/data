@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 8,
+  "online_count": 7,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -393,28 +393,9 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [651036]",
+        "name": "YouTube. /help - [7] [651038]",
         "type": "ActivityType.watching"
       }
-    },
-    {
-      "id": "883755159094702090",
-      "username": "callme3nity",
-      "discriminator": "0",
-      "displayName": "CallMe 3nity",
-      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/7938c11f8fc216c4b7c2dbeff7b1df04.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "624327818783752203",
@@ -861,6 +842,25 @@
       "discriminator": "0",
       "displayName": "c00c00s",
       "avatar_url": "https://cdn.discordapp.com/avatars/1056547885551988847/31ed23a82ae6e614c9922eb53340c433.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "883755159094702090",
+      "username": "callme3nity",
+      "discriminator": "0",
+      "displayName": "CallMe 3nity",
+      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/7938c11f8fc216c4b7c2dbeff7b1df04.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2707,5 +2707,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-05 04:32:01"
+  "updated_at": "2025-11-05 04:47:01"
 }
