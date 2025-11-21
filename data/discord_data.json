@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 13,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -379,28 +379,6 @@
       "game": null
     },
     {
-      "id": "868773176384028702",
-      "username": "maresicek",
-      "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Comet",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
       "id": "290157462647209994",
       "username": "cingy23",
       "discriminator": "0",
@@ -428,6 +406,25 @@
       "discriminator": "0",
       "displayName": "Johan Jebke",
       "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "565892861896425503",
+      "username": "letec_cz",
+      "discriminator": "0",
+      "displayName": "letec_cz",
+      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -482,6 +479,66 @@
         }
       ],
       "highest_role_priority": 5,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "868773176384028702",
+      "username": "maresicek",
+      "discriminator": "0",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Comet",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "1056547885551988847",
+      "username": "c00c00s.",
+      "discriminator": "0",
+      "displayName": "c00c00s",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1056547885551988847/31ed23a82ae6e614c9922eb53340c433.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1208108590041399360",
+      "username": "dxvidko",
+      "discriminator": "0",
+      "displayName": "Davoo",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
       "bot": false,
       "game": null
     },
@@ -558,40 +615,6 @@
       "game": {
         "name": "Rocket League®",
         "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "1304510210253127691",
-      "username": "cz.vexis",
-      "discriminator": "0",
-      "displayName": "Vexis ⚔",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
-      "status": "dnd",
-      "roles": [
-        {
-          "id": "1319319606082404465",
-          "name": "Moderátor ⚜️",
-          "color": "#3498db",
-          "priority": 3
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 3,
-      "bot": false,
-      "game": {
-        "name": "New Autoroles bot ⬇️",
-        "type": "ActivityType.custom"
       }
     },
     {
@@ -678,6 +701,37 @@
         }
       ],
       "highest_role_priority": 2,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1304510210253127691",
+      "username": "cz.vexis",
+      "discriminator": "0",
+      "displayName": "Vexis ⚔",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1319319606082404465",
+          "name": "Moderátor ⚜️",
+          "color": "#3498db",
+          "priority": 3
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 3,
       "bot": false,
       "game": null
     },
@@ -921,25 +975,6 @@
       "game": null
     },
     {
-      "id": "1056547885551988847",
-      "username": "c00c00s.",
-      "discriminator": "0",
-      "displayName": "c00c00s",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1056547885551988847/31ed23a82ae6e614c9922eb53340c433.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "883755159094702090",
       "username": "callme3nity",
       "discriminator": "0",
@@ -1084,25 +1119,6 @@
       "discriminator": "0",
       "displayName": "Dave",
       "avatar_url": "https://cdn.discordapp.com/avatars/1383795795626688572/5445ffd7ffb201a98393cbdf684ea4b1.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
-      "discriminator": "0",
-      "displayName": "Davoo",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1646,25 +1662,6 @@
       "discriminator": "0",
       "displayName": "leonel262",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "565892861896425503",
-      "username": "letec_cz",
-      "discriminator": "0",
-      "displayName": "letec_cz",
-      "avatar_url": "https://cdn.discordapp.com/avatars/565892861896425503/ab3cecebd61163684d50577319b7dfa3.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2722,5 +2719,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-21 22:32:01"
+  "updated_at": "2025-11-21 22:47:01"
 }
