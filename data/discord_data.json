@@ -420,28 +420,9 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
-    },
-    {
-      "id": "524340420692672513",
-      "username": "gamaglade",
-      "discriminator": "0",
-      "displayName": "GamaGlade",
-      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
       "game": {
-        "name": "Hang Status",
-        "type": "ActivityType.unknown_6"
+        "name": "Rocket League",
+        "type": "ActivityType.playing"
       }
     },
     {
@@ -486,6 +467,28 @@
       "game": {
         "name": "1984",
         "type": "ActivityType.custom"
+      }
+    },
+    {
+      "id": "524340420692672513",
+      "username": "gamaglade",
+      "discriminator": "0",
+      "displayName": "GamaGlade",
+      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Hang Status",
+        "type": "ActivityType.unknown_6"
       }
     },
     {
@@ -2722,5 +2725,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-25 15:02:01"
+  "updated_at": "2025-11-25 15:17:01"
 }
