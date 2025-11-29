@@ -436,7 +436,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Mass Effect™",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -2710,5 +2713,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-11-29 07:44:12"
+  "updated_at": "2025-11-29 07:59:12"
 }
