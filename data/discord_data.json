@@ -508,11 +508,11 @@
       "game": null
     },
     {
-      "id": "821631037259513886",
-      "username": "hb_hrac",
+      "id": "974623994709946419",
+      "username": "kristianiss",
       "discriminator": "0",
-      "displayName": "HB",
-      "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -524,7 +524,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "1984",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "916314359209279499",
@@ -825,25 +828,6 @@
         }
       ],
       "highest_role_priority": 5,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
       "bot": false,
       "game": null
     },
@@ -1428,6 +1412,25 @@
       "discriminator": "0",
       "displayName": "Hauli",
       "avatar_url": "https://cdn.discordapp.com/avatars/849682549856796702/3fd936f674f377028b694db662614d56.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "821631037259513886",
+      "username": "hb_hrac",
+      "discriminator": "0",
+      "displayName": "HB",
+      "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2725,5 +2728,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-12-04 16:44:12"
+  "updated_at": "2025-12-04 16:59:12"
 }
