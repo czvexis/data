@@ -399,7 +399,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [654921]",
+        "name": "YouTube. /help - [7] [654922]",
         "type": "ActivityType.watching"
       }
     },
@@ -409,7 +409,7 @@
       "discriminator": "0",
       "displayName": "Aares",
       "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "online",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -426,33 +426,11 @@
       }
     },
     {
-      "id": "498924085527445527",
-      "username": "balator",
+      "id": "1112367703634739321",
+      "username": "jancaveg",
       "discriminator": "0",
-      "displayName": "Yim",
-      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Mass Effect™ 3",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "838692284777496596",
-      "username": "kober34",
-      "discriminator": "0",
-      "displayName": "kober",
-      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
+      "displayName": "Emiko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1112367703634739321/9231cb44b9a8fc1146e7f25a92043899.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -473,11 +451,11 @@
       "game": null
     },
     {
-      "id": "1190773551972761730",
-      "username": "tigi0150",
+      "id": "821631037259513886",
+      "username": "hb_hrac",
       "discriminator": "0",
-      "displayName": "TiGi",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1190773551972761730/dd1e3da95b6059f89cad85570e0a470d.png?size=1024",
+      "displayName": "HB",
+      "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -485,6 +463,31 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "838692284777496596",
+      "username": "kober34",
+      "discriminator": "0",
+      "displayName": "kober",
+      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -514,37 +517,25 @@
       }
     },
     {
-      "id": "1304510210253127691",
-      "username": "cz.vexis",
+      "id": "498924085527445527",
+      "username": "balator",
       "discriminator": "0",
-      "displayName": "Vexis ⚔",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
-      "status": "dnd",
+      "displayName": "Yim",
+      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "idle",
       "roles": [
-        {
-          "id": "1319319606082404465",
-          "name": "Moderátor ⚜️",
-          "color": "#3498db",
-          "priority": 3
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
-      "highest_role_priority": 3,
+      "highest_role_priority": 7,
       "bot": false,
       "game": {
-        "name": "New Autoroles bot ⬇️",
-        "type": "ActivityType.custom"
+        "name": "Mass Effect™ 3",
+        "type": "ActivityType.playing"
       }
     },
     {
@@ -631,6 +622,37 @@
         }
       ],
       "highest_role_priority": 2,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1304510210253127691",
+      "username": "cz.vexis",
+      "discriminator": "0",
+      "displayName": "Vexis ⚔",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1319319606082404465",
+          "name": "Moderátor ⚜️",
+          "color": "#3498db",
+          "priority": 3
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 3,
       "bot": false,
       "game": null
     },
@@ -1177,31 +1199,6 @@
       "game": null
     },
     {
-      "id": "1112367703634739321",
-      "username": "jancaveg",
-      "discriminator": "0",
-      "displayName": "Emiko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1112367703634739321/9231cb44b9a8fc1146e7f25a92043899.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "863789679270559764",
       "username": "vojtafz",
       "discriminator": "0",
@@ -1321,25 +1318,6 @@
       "discriminator": "0",
       "displayName": "Hauli",
       "avatar_url": "https://cdn.discordapp.com/avatars/849682549856796702/3fd936f674f377028b694db662614d56.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "821631037259513886",
-      "username": "hb_hrac",
-      "discriminator": "0",
-      "displayName": "HB",
-      "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2295,6 +2273,25 @@
       "game": null
     },
     {
+      "id": "1190773551972761730",
+      "username": "tigi0150",
+      "discriminator": "0",
+      "displayName": "TiGi",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1190773551972761730/dd1e3da95b6059f89cad85570e0a470d.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1025056189249232916",
       "username": "tisicofka",
       "discriminator": "0",
@@ -2744,5 +2741,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-12-09 14:44:12"
+  "updated_at": "2025-12-09 14:59:12"
 }
