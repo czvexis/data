@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 14,
+  "online_count": 16,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -565,6 +565,31 @@
       }
     },
     {
+      "id": "379687101614129153",
+      "username": "arkephalos",
+      "discriminator": "0",
+      "displayName": "Arkephalos",
+      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1445407926251687966",
       "username": "peter850_",
       "discriminator": "0",
@@ -603,6 +628,28 @@
       "game": {
         "name": "Lidi jsou jen otroci svých čistých otrokářů",
         "type": "ActivityType.custom"
+      }
+    },
+    {
+      "id": "960227453014532156",
+      "username": "kocicikebab24",
+      "discriminator": "0",
+      "displayName": "Kebab enjoyer",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "dnd",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Days Gone",
+        "type": "ActivityType.playing"
       }
     },
     {
@@ -861,31 +908,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "379687101614129153",
-      "username": "arkephalos",
-      "discriminator": "0",
-      "displayName": "Arkephalos",
-      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -1567,25 +1589,6 @@
       "username": "kamilnecas",
       "discriminator": "0",
       "displayName": "Kamil Nečas",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "960227453014532156",
-      "username": "kocicikebab24",
-      "discriminator": "0",
-      "displayName": "Kebab enjoyer",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
       "roles": [
@@ -2744,5 +2747,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-12-14 20:47:45"
+  "updated_at": "2025-12-14 21:02:45"
 }
