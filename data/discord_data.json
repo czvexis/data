@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 13,
+  "online_count": 14,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -404,28 +404,6 @@
       }
     },
     {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
-      "discriminator": "0",
-      "displayName": "Davoo",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Roblox",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
       "id": "842030953547038750",
       "username": "kubanczzz",
       "discriminator": "0",
@@ -442,7 +420,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Minecraft",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "288771977416671232",
@@ -451,6 +432,25 @@
       "displayName": "Macejko",
       "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
       "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1208108590041399360",
+      "username": "dxvidko",
+      "discriminator": "0",
+      "displayName": "Davoo",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -568,6 +568,18 @@
       "game": null
     },
     {
+      "id": "812405489564254311",
+      "username": "lordignor",
+      "discriminator": "0",
+      "displayName": "Lord Ignor",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "idle",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1056658848838058045",
       "username": "j3nizz",
       "discriminator": "0",
@@ -578,7 +590,7 @@
       "highest_role_priority": 9999,
       "bot": false,
       "game": {
-        "name": "Rocket League®",
+        "name": "Grand Theft Auto V",
         "type": "ActivityType.playing"
       }
     },
@@ -2645,18 +2657,6 @@
       "game": null
     },
     {
-      "id": "812405489564254311",
-      "username": "lordignor",
-      "discriminator": "0",
-      "displayName": "Lord Ignor",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1074350241928720435",
       "username": "matysekkt.",
       "discriminator": "0",
@@ -2729,5 +2729,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-12-19 12:02:45"
+  "updated_at": "2025-12-19 12:17:45"
 }
