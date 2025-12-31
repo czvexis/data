@@ -393,7 +393,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [657385]",
+        "name": "YouTube. /help - [7] [657390]",
         "type": "ActivityType.watching"
       }
     },
@@ -452,7 +452,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "World of Tanks",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "842030953547038750",
@@ -2698,5 +2701,5 @@
       "game": null
     }
   ],
-  "updated_at": "2025-12-31 17:02:45"
+  "updated_at": "2025-12-31 17:17:45"
 }
