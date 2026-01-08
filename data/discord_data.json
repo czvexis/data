@@ -399,7 +399,7 @@
       "highest_role_priority": 6,
       "bot": true,
       "game": {
-        "name": "YouTube. /help - [7] [658332]",
+        "name": "YouTube. /help - [7] [658338]",
         "type": "ActivityType.watching"
       }
     },
@@ -454,7 +454,10 @@
       "roles": [],
       "highest_role_priority": 9999,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Rocket League®",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -2704,5 +2707,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-01-08 07:02:45"
+  "updated_at": "2026-01-08 07:17:45"
 }
