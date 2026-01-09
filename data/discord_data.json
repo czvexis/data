@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 12,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -327,7 +327,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmlevelhelp",
+        "name": "/cmhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -401,28 +401,6 @@
       }
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "1984",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
       "id": "1208108590041399360",
       "username": "dxvidko",
       "discriminator": "0",
@@ -489,25 +467,6 @@
       "game": null
     },
     {
-      "id": "515795268235427851",
-      "username": "thuglife8675",
-      "discriminator": "0",
-      "displayName": "ThugLife",
-      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1333707002702204938",
       "username": "spoker0413",
       "discriminator": "0",
@@ -527,46 +486,12 @@
       "game": null
     },
     {
-      "id": "1304510210253127691",
-      "username": "cz.vexis",
+      "id": "515795268235427851",
+      "username": "thuglife8675",
       "discriminator": "0",
-      "displayName": "Vexis ⚔",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
-      "status": "dnd",
-      "roles": [
-        {
-          "id": "1319319606082404465",
-          "name": "Moderátor ⚜️",
-          "color": "#3498db",
-          "priority": 3
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 3,
-      "bot": false,
-      "game": {
-        "name": "New Autoroles bot ⬇️",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
-      "id": "606170960017620993",
-      "username": "csmrstepa",
-      "discriminator": "0",
-      "displayName": "csmrstepa",
-      "avatar_url": "https://cdn.discordapp.com/avatars/606170960017620993/3d76c52fb02bf89e58d5a5b4cf10aaf1.png?size=1024",
-      "status": "dnd",
+      "displayName": "ThugLife",
+      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -667,6 +592,37 @@
       "game": null
     },
     {
+      "id": "1304510210253127691",
+      "username": "cz.vexis",
+      "discriminator": "0",
+      "displayName": "Vexis ⚔",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1304510210253127691/5a7befba42ee4825690b34eb466b8623.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1319319606082404465",
+          "name": "Moderátor ⚜️",
+          "color": "#3498db",
+          "priority": 3
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 3,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1170795208624066721",
       "username": "drtic44",
       "discriminator": "0",
@@ -759,6 +715,25 @@
       "discriminator": "0",
       "displayName": "123♥",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "974623994709946419",
+      "username": "kristianiss",
+      "discriminator": "0",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -936,6 +911,25 @@
       "discriminator": "0",
       "displayName": "Cingy23",
       "avatar_url": "https://cdn.discordapp.com/avatars/290157462647209994/2cae2923b58a8693129bca96d496bf15.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "606170960017620993",
+      "username": "csmrstepa",
+      "discriminator": "0",
+      "displayName": "csmrstepa",
+      "avatar_url": "https://cdn.discordapp.com/avatars/606170960017620993/3d76c52fb02bf89e58d5a5b4cf10aaf1.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2733,5 +2727,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-01-09 22:40:20"
+  "updated_at": "2026-01-09 22:55:20"
 }
