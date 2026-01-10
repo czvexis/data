@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 13,
+  "online_count": 14,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -518,10 +518,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Subnautica",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "449216480685457408",
@@ -548,6 +545,25 @@
       "discriminator": "0",
       "displayName": "leonel262",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1345433350659379301",
+      "username": "yt_saturnix_99094",
+      "discriminator": "0",
+      "displayName": "SaturnBoy",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1345433350659379301/76c3876a74061baf2f5a5564c7ce7af2.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2178,25 +2194,6 @@
       "game": null
     },
     {
-      "id": "1345433350659379301",
-      "username": "yt_saturnix_99094",
-      "discriminator": "0",
-      "displayName": "SaturnBoy",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1345433350659379301/76c3876a74061baf2f5a5564c7ce7af2.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1300414031034847285",
       "username": "scared114",
       "discriminator": "0",
@@ -2736,5 +2733,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-01-10 12:40:20"
+  "updated_at": "2026-01-10 12:55:20"
 }
