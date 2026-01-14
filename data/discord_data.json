@@ -406,7 +406,7 @@
       "discriminator": "0",
       "displayName": "Walross Wald",
       "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
-      "status": "online",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -439,10 +439,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Spotify",
-        "type": "ActivityType.listening"
-      }
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -2706,5 +2703,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-01-15 00:10:20"
+  "updated_at": "2026-01-15 00:25:20"
 }
