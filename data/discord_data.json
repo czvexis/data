@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 123,
-  "online_count": 13,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -327,7 +327,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmhelp",
+        "name": "/modhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -399,6 +399,25 @@
         "name": "YouTube. /help - [15] [...]",
         "type": "ActivityType.watching"
       }
+    },
+    {
+      "id": "290157462647209994",
+      "username": "cingy23",
+      "discriminator": "0",
+      "displayName": "Cingy23",
+      "avatar_url": "https://cdn.discordapp.com/avatars/290157462647209994/2cae2923b58a8693129bca96d496bf15.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "972547768461713538",
@@ -507,6 +526,28 @@
       "discriminator": "0",
       "displayName": "Yim",
       "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Subnautica: Below Zero",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "842030953547038750",
+      "username": "kubanczzz",
+      "discriminator": "0",
+      "displayName": "❤Kuban_ofic69❤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -971,25 +1012,6 @@
       "discriminator": "0",
       "displayName": "c00c00s",
       "avatar_url": "https://cdn.discordapp.com/avatars/1056547885551988847/31ed23a82ae6e614c9922eb53340c433.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "290157462647209994",
-      "username": "cingy23",
-      "discriminator": "0",
-      "displayName": "Cingy23",
-      "avatar_url": "https://cdn.discordapp.com/avatars/290157462647209994/2cae2923b58a8693129bca96d496bf15.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2495,25 +2517,6 @@
       "game": null
     },
     {
-      "id": "842030953547038750",
-      "username": "kubanczzz",
-      "discriminator": "0",
-      "displayName": "❤Kuban_ofic69❤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "411587038006214656",
       "username": "mnky2mnky2mnky",
       "discriminator": "0",
@@ -2720,5 +2723,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-03 16:20:05"
+  "updated_at": "2026-02-03 16:35:05"
 }
