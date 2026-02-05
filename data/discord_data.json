@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 123,
-  "online_count": 13,
+  "online_count": 14,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -401,35 +401,45 @@
       }
     },
     {
-      "id": "525092851504381953",
-      "username": "nutty136",
+      "id": "868773176384028702",
+      "username": "maresicek",
       "discriminator": "0",
-      "displayName": "malá veverka / Nutty",
-      "avatar_url": "https://cdn.discordapp.com/avatars/525092851504381953/1825c58237caa20dcd3baee14440fc50.png?size=1024",
-      "status": "idle",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "status": "online",
       "roles": [
-        {
-          "id": "1323730392041127988",
-          "name": "Second Leader 👑",
-          "color": "#e67e22",
-          "priority": 1
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
-      "highest_role_priority": 1,
+      "highest_role_priority": 7,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "974623994709946419",
+      "username": "kristianiss",
+      "discriminator": "0",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "1984",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "821631037259513886",
@@ -639,6 +649,37 @@
       "game": null
     },
     {
+      "id": "525092851504381953",
+      "username": "nutty136",
+      "discriminator": "0",
+      "displayName": "malá veverka / Nutty",
+      "avatar_url": "https://cdn.discordapp.com/avatars/525092851504381953/1825c58237caa20dcd3baee14440fc50.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1323730392041127988",
+          "name": "Second Leader 👑",
+          "color": "#e67e22",
+          "priority": 1
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 1,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "745569562472218634",
       "username": ".esorimmer",
       "discriminator": "0",
@@ -756,44 +797,6 @@
       "discriminator": "0",
       "displayName": "123♥",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "868773176384028702",
-      "username": "maresicek",
-      "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2720,5 +2723,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-05 14:05:05"
+  "updated_at": "2026-02-05 14:20:05"
 }
