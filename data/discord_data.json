@@ -373,10 +373,7 @@
       ],
       "highest_role_priority": 6,
       "bot": true,
-      "game": {
-        "name": "/help",
-        "type": "ActivityType.listening"
-      }
+      "game": null
     },
     {
       "id": "456633518882160642",
@@ -399,25 +396,6 @@
         "name": "YouTube. /help - [15] [...]",
         "type": "ActivityType.watching"
       }
-    },
-    {
-      "id": "916314359209279499",
-      "username": "johanjebke",
-      "discriminator": "0",
-      "displayName": "Johan Jebke",
-      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "288771977416671232",
@@ -469,7 +447,7 @@
       "discriminator": "0",
       "displayName": "Walross Wald",
       "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
-      "status": "idle",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -484,6 +462,25 @@
         "name": "Lidi jsou jen otroci svých čistých otrokářů",
         "type": "ActivityType.custom"
       }
+    },
+    {
+      "id": "916314359209279499",
+      "username": "johanjebke",
+      "discriminator": "0",
+      "displayName": "Johan Jebke",
+      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -2717,5 +2714,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-05 23:35:05"
+  "updated_at": "2026-02-05 23:50:05"
 }
