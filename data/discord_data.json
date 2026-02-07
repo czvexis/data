@@ -420,7 +420,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Minecraft",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "868773176384028702",
@@ -2717,5 +2720,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-07 15:35:05"
+  "updated_at": "2026-02-07 15:50:05"
 }
