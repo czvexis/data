@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 123,
-  "online_count": 16,
+  "online_count": 17,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -502,7 +502,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Minecraft",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "916314359209279499",
@@ -529,6 +532,25 @@
       "discriminator": "0",
       "displayName": "leonel262",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "650231978980802560",
+      "username": "ondrej7780",
+      "discriminator": "0",
+      "displayName": "Ondrej",
+      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2011,25 +2033,6 @@
       "game": null
     },
     {
-      "id": "650231978980802560",
-      "username": "ondrej7780",
-      "discriminator": "0",
-      "displayName": "Ondrej",
-      "avatar_url": "https://cdn.discordapp.com/avatars/650231978980802560/a631c807e3ead61bd26a0d2584187ebc.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "991697702142353490",
       "username": "petras_7",
       "discriminator": "0",
@@ -2729,5 +2732,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-08 21:20:05"
+  "updated_at": "2026-02-08 21:35:05"
 }
