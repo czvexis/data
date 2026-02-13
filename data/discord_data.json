@@ -439,7 +439,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "The Crew 2",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "624327818783752203",
@@ -2720,5 +2723,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-13 12:20:05"
+  "updated_at": "2026-02-13 12:35:05"
 }
