@@ -404,47 +404,6 @@
       }
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
-      "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "1984",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "515795268235427851",
       "username": "thuglife8675",
       "discriminator": "0",
@@ -483,6 +442,28 @@
       "game": {
         "name": "Euro Truck Simulator 2",
         "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "974623994709946419",
+      "username": "kristianiss",
+      "discriminator": "0",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "1984",
+        "type": "ActivityType.custom"
       }
     },
     {
@@ -561,6 +542,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2726,5 +2726,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-20 17:05:05"
+  "updated_at": "2026-02-20 17:20:05"
 }
