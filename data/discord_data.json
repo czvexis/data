@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 122,
-  "online_count": 9,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -382,6 +382,28 @@
       }
     },
     {
+      "id": "456633518882160642",
+      "username": "YouTube",
+      "discriminator": "7763",
+      "displayName": "YouTube",
+      "avatar_url": "https://cdn.discordapp.com/avatars/456633518882160642/41eefaf9798a04e2a3353cfbd1f90e78.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1320014113669386312",
+          "name": "Bot 🤖",
+          "color": "#da004e",
+          "priority": 6
+        }
+      ],
+      "highest_role_priority": 6,
+      "bot": true,
+      "game": {
+        "name": "YouTube. /help - [15] [...]",
+        "type": "ActivityType.watching"
+      }
+    },
+    {
       "id": "515795268235427851",
       "username": "thuglife8675",
       "discriminator": "0",
@@ -704,25 +726,6 @@
       ],
       "highest_role_priority": 5,
       "bot": false,
-      "game": null
-    },
-    {
-      "id": "456633518882160642",
-      "username": "YouTube",
-      "discriminator": "7763",
-      "displayName": "YouTube",
-      "avatar_url": "https://cdn.discordapp.com/avatars/456633518882160642/41eefaf9798a04e2a3353cfbd1f90e78.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1320014113669386312",
-          "name": "Bot 🤖",
-          "color": "#da004e",
-          "priority": 6
-        }
-      ],
-      "highest_role_priority": 6,
-      "bot": true,
       "game": null
     },
     {
@@ -2708,5 +2711,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-25 18:11:23"
+  "updated_at": "2026-02-25 18:26:23"
 }
