@@ -417,7 +417,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Euro Truck Simulator 2",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "288771977416671232",
@@ -2708,5 +2711,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-02-26 09:41:23"
+  "updated_at": "2026-02-26 09:56:23"
 }
