@@ -417,7 +417,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Hang Status",
+        "type": "ActivityType.unknown_6"
+      }
     },
     {
       "id": "1291007129054089277",
@@ -2714,5 +2717,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-02 20:23:05"
+  "updated_at": "2026-03-02 20:38:05"
 }
