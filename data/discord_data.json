@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 122,
-  "online_count": 5,
+  "online_count": 7,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -399,6 +399,50 @@
         "name": "YouTube. /help - [15] [...]",
         "type": "ActivityType.watching"
       }
+    },
+    {
+      "id": "863789679270559764",
+      "username": "vojtafz",
+      "discriminator": "0",
+      "displayName": "Fake Zorro",
+      "avatar_url": "https://cdn.discordapp.com/avatars/863789679270559764/ce8db595886ef1f9cd4b054e0f435ee2.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "950331522492272672",
+      "username": "raf156",
+      "discriminator": "0",
+      "displayName": "raf156",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "498924085527445527",
@@ -1158,25 +1202,6 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "863789679270559764",
-      "username": "vojtafz",
-      "discriminator": "0",
-      "displayName": "Fake Zorro",
-      "avatar_url": "https://cdn.discordapp.com/avatars/863789679270559764/ce8db595886ef1f9cd4b054e0f435ee2.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2062,31 +2087,6 @@
       "game": null
     },
     {
-      "id": "950331522492272672",
-      "username": "raf156",
-      "discriminator": "0",
-      "displayName": "raf156",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "966032788828586024",
       "username": "r4sp41",
       "discriminator": "0",
@@ -2705,5 +2705,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-03 09:38:05"
+  "updated_at": "2026-03-03 09:53:05"
 }
