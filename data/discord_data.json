@@ -327,9 +327,40 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmhelp",
+        "name": "/cmlevelhelp",
         "type": "ActivityType.listening"
       }
+    },
+    {
+      "id": "676504469747269632",
+      "username": "jirka2211",
+      "discriminator": "0",
+      "displayName": "Jirka",
+      "avatar_url": "https://cdn.discordapp.com/avatars/676504469747269632/eddaa7226feadcf29b36dc1fa0701ecc.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1319318959325188197",
+          "name": "CO - Leader 🔰",
+          "color": "#1f8b4c",
+          "priority": 5
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 5,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1119249146977718272",
@@ -421,25 +452,6 @@
         "name": "Factorio",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "842030953547038750",
-      "username": "kubanczzz",
-      "discriminator": "0",
-      "displayName": "❤Kuban_ofic69❤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -578,37 +590,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        }
-      ],
-      "highest_role_priority": 5,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "676504469747269632",
-      "username": "jirka2211",
-      "discriminator": "0",
-      "displayName": "Jirka",
-      "avatar_url": "https://cdn.discordapp.com/avatars/676504469747269632/eddaa7226feadcf29b36dc1fa0701ecc.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1319318959325188197",
-          "name": "CO - Leader 🔰",
-          "color": "#1f8b4c",
-          "priority": 5
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 5,
@@ -2511,6 +2492,25 @@
       "game": null
     },
     {
+      "id": "842030953547038750",
+      "username": "kubanczzz",
+      "discriminator": "0",
+      "displayName": "❤Kuban_ofic69❤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "411587038006214656",
       "username": "mnky2mnky2mnky",
       "discriminator": "0",
@@ -2705,5 +2705,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-03 08:53:05"
+  "updated_at": "2026-03-03 09:08:05"
 }
