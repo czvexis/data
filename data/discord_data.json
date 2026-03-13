@@ -311,7 +311,7 @@
       "highest_role_priority": 4,
       "bot": true,
       "game": {
-        "name": "/cmhelp",
+        "name": "/cmlevelhelp",
         "type": "ActivityType.listening"
       }
     },
@@ -526,10 +526,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Spotify",
-        "type": "ActivityType.listening"
-      }
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -2739,5 +2736,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-13 17:43:30"
+  "updated_at": "2026-03-13 17:46:23"
 }
