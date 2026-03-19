@@ -374,11 +374,11 @@
       }
     },
     {
-      "id": "974623994709946419",
-      "username": "kristianiss",
+      "id": "524340420692672513",
+      "username": "gamaglade",
       "discriminator": "0",
-      "displayName": "Aares",
-      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
+      "displayName": "GamaGlade",
+      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -390,10 +390,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "1984",
-        "type": "ActivityType.custom"
-      }
+      "game": null
     },
     {
       "id": "288771977416671232",
@@ -453,6 +450,28 @@
       "game": null
     },
     {
+      "id": "974623994709946419",
+      "username": "kristianiss",
+      "discriminator": "0",
+      "displayName": "Aares",
+      "avatar_url": "https://cdn.discordapp.com/avatars/974623994709946419/f55d5b68d13c1ec826ca4803f831fe00.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "1984",
+        "type": "ActivityType.custom"
+      }
+    },
+    {
       "id": "972547768461713538",
       "username": "dannik99",
       "discriminator": "0",
@@ -492,25 +511,6 @@
         "name": "Hang Status",
         "type": "ActivityType.unknown_6"
       }
-    },
-    {
-      "id": "842030953547038750",
-      "username": "kubanczzz",
-      "discriminator": "0",
-      "displayName": "❤Kuban_ofic69❤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1253,25 +1253,6 @@
       "discriminator": "0",
       "displayName": "Fast WHY",
       "avatar_url": "https://cdn.discordapp.com/avatars/1201581956429779055/c92d8f2076e05f02be8220d24b65b2ca.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "524340420692672513",
-      "username": "gamaglade",
-      "discriminator": "0",
-      "displayName": "GamaGlade",
-      "avatar_url": "https://cdn.discordapp.com/avatars/524340420692672513/fd0a4eccff8957910f5ff238a243e861.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2555,6 +2536,25 @@
       "game": null
     },
     {
+      "id": "842030953547038750",
+      "username": "kubanczzz",
+      "discriminator": "0",
+      "displayName": "❤Kuban_ofic69❤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "411587038006214656",
       "username": "mnky2mnky2mnky",
       "discriminator": "0",
@@ -2744,5 +2744,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-19 16:59:21"
+  "updated_at": "2026-03-19 17:14:21"
 }
