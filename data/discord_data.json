@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 122,
-  "online_count": 12,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -296,6 +296,37 @@
   ],
   "members": [
     {
+      "id": "1316481745251471416",
+      "username": "bofor0253",
+      "discriminator": "0",
+      "displayName": "BOFOR",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1319320315377090621",
+          "name": "Leader 👑",
+          "color": "#e74c3c",
+          "priority": 0
+        },
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 0,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1326941437610164234",
       "username": "ČechyMorava⚔",
       "discriminator": "0671",
@@ -516,6 +547,25 @@
       }
     },
     {
+      "id": "607582164485275678",
+      "username": "zdenek1976",
+      "discriminator": "0",
+      "displayName": "Zdenek",
+      "avatar_url": "https://cdn.discordapp.com/avatars/607582164485275678/02d56b85128bf34fa9884686b82517d9.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1056658848838058045",
       "username": "j3nizz",
       "discriminator": "0",
@@ -547,33 +597,21 @@
       "game": null
     },
     {
-      "id": "1316481745251471416",
-      "username": "bofor0253",
+      "id": "960227453014532156",
+      "username": "kocicikebab24",
       "discriminator": "0",
-      "displayName": "BOFOR",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1316481745251471416/5b32462319b1c94b52aadd0f65b47408.png?size=1024",
-      "status": "offline",
+      "displayName": "Kebab enjoyer",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "dnd",
       "roles": [
-        {
-          "id": "1319320315377090621",
-          "name": "Leader 👑",
-          "color": "#e74c3c",
-          "priority": 0
-        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
-      "highest_role_priority": 0,
+      "highest_role_priority": 7,
       "bot": false,
       "game": null
     },
@@ -1623,25 +1661,6 @@
       "game": null
     },
     {
-      "id": "960227453014532156",
-      "username": "kocicikebab24",
-      "discriminator": "0",
-      "displayName": "Kebab enjoyer",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "838692284777496596",
       "username": "kober34",
       "discriminator": "0",
@@ -2526,25 +2545,6 @@
       "game": null
     },
     {
-      "id": "607582164485275678",
-      "username": "zdenek1976",
-      "discriminator": "0",
-      "displayName": "Zdenek",
-      "avatar_url": "https://cdn.discordapp.com/avatars/607582164485275678/02d56b85128bf34fa9884686b82517d9.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "973631931944173599",
       "username": "skuby4546",
       "discriminator": "0",
@@ -2741,5 +2741,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-03-25 18:44:21"
+  "updated_at": "2026-03-25 18:59:21"
 }
