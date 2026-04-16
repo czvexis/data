@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 122,
-  "online_count": 14,
+  "online_count": 13,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -461,7 +461,7 @@
       "discriminator": "0",
       "displayName": "Walross Wald",
       "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
-      "status": "online",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -476,25 +476,6 @@
         "name": "Lidi jsou jen otroci svých čistých otrokářů",
         "type": "ActivityType.custom"
       }
-    },
-    {
-      "id": "449216480685457408",
-      "username": "._123_",
-      "discriminator": "0",
-      "displayName": "123♥",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "498924085527445527",
@@ -805,6 +786,25 @@
       ],
       "highest_role_priority": 6,
       "bot": true,
+      "game": null
+    },
+    {
+      "id": "449216480685457408",
+      "username": "._123_",
+      "discriminator": "0",
+      "displayName": "123♥",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
       "game": null
     },
     {
@@ -2753,5 +2753,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-04-16 20:22:59"
+  "updated_at": "2026-04-16 20:37:59"
 }
