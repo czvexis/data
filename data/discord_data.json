@@ -374,25 +374,6 @@
       }
     },
     {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
-      "discriminator": "0",
-      "displayName": "AQM|Trebor",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "379687101614129153",
       "username": "arkephalos",
       "discriminator": "0",
@@ -415,7 +396,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Heroes of Might and Magic 4 Complete",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1291007129054089277",
@@ -442,6 +426,25 @@
       "discriminator": "0",
       "displayName": "123♥",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1208108590041399360",
+      "username": "dxvidko",
+      "discriminator": "0",
+      "displayName": "AQM|Trebor",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2741,5 +2744,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-05-01 14:54:37"
+  "updated_at": "2026-05-01 15:09:37"
 }
