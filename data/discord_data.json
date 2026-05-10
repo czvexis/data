@@ -409,7 +409,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "F1 2018",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "868773176384028702",
@@ -2747,5 +2750,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-05-10 13:09:37"
+  "updated_at": "2026-05-10 13:24:37"
 }
