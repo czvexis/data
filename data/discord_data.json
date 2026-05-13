@@ -393,25 +393,6 @@
       "game": null
     },
     {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -434,13 +415,19 @@
       }
     },
     {
-      "id": "379687101614129153",
-      "username": "arkephalos",
+      "id": "745569562472218634",
+      "username": ".esorimmer",
       "discriminator": "0",
-      "displayName": "Arkephalos",
-      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
+      "displayName": "EsoRimmer",
+      "avatar_url": "https://cdn.discordapp.com/avatars/745569562472218634/c8a3bde51aefb44fc5eff62f6e3425d3.png?size=1024",
       "status": "idle",
       "roles": [
+        {
+          "id": "1344790234902040677",
+          "name": "Senior Leader 🎖",
+          "color": "#f1c40f",
+          "priority": 2
+        },
         {
           "id": "1331726402051117098",
           "name": "Pravidla ✅️",
@@ -452,6 +439,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 2,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -539,37 +545,6 @@
         }
       ],
       "highest_role_priority": 1,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "745569562472218634",
-      "username": ".esorimmer",
-      "discriminator": "0",
-      "displayName": "EsoRimmer",
-      "avatar_url": "https://cdn.discordapp.com/avatars/745569562472218634/c8a3bde51aefb44fc5eff62f6e3425d3.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1344790234902040677",
-          "name": "Senior Leader 🎖",
-          "color": "#f1c40f",
-          "priority": 2
-        },
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 2,
       "bot": false,
       "game": null
     },
@@ -805,6 +780,31 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "379687101614129153",
+      "username": "arkephalos",
+      "discriminator": "0",
+      "displayName": "Arkephalos",
+      "avatar_url": "https://cdn.discordapp.com/avatars/379687101614129153/fae082dc4150039940578e3c386748a8.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2744,5 +2744,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-05-13 09:39:37"
+  "updated_at": "2026-05-13 09:54:37"
 }
