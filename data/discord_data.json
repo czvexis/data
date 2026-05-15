@@ -390,7 +390,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "subnautica2eos-win64-shipping",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "934764149731389471",
@@ -2741,5 +2744,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-05-15 06:09:37"
+  "updated_at": "2026-05-15 06:24:37"
 }
