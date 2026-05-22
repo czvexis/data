@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 123,
-  "online_count": 8,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -390,10 +390,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Anno 1800",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "288771977416671232",
@@ -437,6 +434,18 @@
       }
     },
     {
+      "id": "812405489564254311",
+      "username": "lordignor",
+      "discriminator": "0",
+      "displayName": "Lord Ignor",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "online",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "838692284777496596",
       "username": "kober34",
       "discriminator": "0",
@@ -455,6 +464,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1219710032921362493",
+      "username": "lotos_hcr2",
+      "discriminator": "0",
+      "displayName": "Lotos YT",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1219710032921362493/6e86546552ab78f6ea21ed707cd73b08.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -1677,25 +1705,6 @@
       "game": null
     },
     {
-      "id": "1219710032921362493",
-      "username": "lotos_hcr2",
-      "discriminator": "0",
-      "displayName": "Lotos YT",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1219710032921362493/6e86546552ab78f6ea21ed707cd73b08.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1075696511205261362",
       "username": "luke874690",
       "discriminator": "0",
@@ -2703,18 +2712,6 @@
       "game": null
     },
     {
-      "id": "812405489564254311",
-      "username": "lordignor",
-      "discriminator": "0",
-      "displayName": "Lord Ignor",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1056658848838058045",
       "username": "j3nizz",
       "discriminator": "0",
@@ -2763,5 +2760,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-05-22 10:39:37"
+  "updated_at": "2026-05-22 10:54:37"
 }
