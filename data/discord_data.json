@@ -403,7 +403,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Geometry Dash",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "842030953547038750",
@@ -2778,5 +2781,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-06-19 21:09:37"
+  "updated_at": "2026-06-19 21:24:37"
 }
