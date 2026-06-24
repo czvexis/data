@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 4,
+  "online_count": 3,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -368,25 +368,6 @@
       ],
       "highest_role_priority": 6,
       "bot": true,
-      "game": null
-    },
-    {
-      "id": "1142378320848224306",
-      "username": "jsempes_48144",
-      "discriminator": "0",
-      "displayName": "Evan Burger",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1142378320848224306/e5ac953db57e8ff121e17119a8ac497e.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
       "game": null
     },
     {
@@ -1118,6 +1099,25 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1142378320848224306",
+      "username": "jsempes_48144",
+      "discriminator": "0",
+      "displayName": "Evan Burger",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1142378320848224306/e5ac953db57e8ff121e17119a8ac497e.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2778,5 +2778,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-06-25 01:09:37"
+  "updated_at": "2026-06-25 01:24:37"
 }
