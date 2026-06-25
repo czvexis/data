@@ -371,12 +371,12 @@
       "game": null
     },
     {
-      "id": "1208108590041399360",
-      "username": "dxvidko",
+      "id": "498924085527445527",
+      "username": "balator",
       "discriminator": "0",
-      "displayName": "GLB|Davooo293",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
-      "status": "idle",
+      "displayName": "Yim",
+      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -387,7 +387,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Shadow of the Tomb Raider",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "607553776735223828",
@@ -1237,6 +1240,25 @@
       "discriminator": "0",
       "displayName": "Geriska",
       "avatar_url": "https://cdn.discordapp.com/avatars/1191448842936266926/f08a3eac55e09aa0711495cdfd33a39c.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1208108590041399360",
+      "username": "dxvidko",
+      "discriminator": "0",
+      "displayName": "GLB|Davooo293",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1208108590041399360/1096dac0c1cad688212d331f800eeec1.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2482,25 +2504,6 @@
       "game": null
     },
     {
-      "id": "498924085527445527",
-      "username": "balator",
-      "discriminator": "0",
-      "displayName": "Yim",
-      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1140648752173031555",
       "username": "zabijak_28958",
       "discriminator": "0",
@@ -2778,5 +2781,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-06-25 06:39:37"
+  "updated_at": "2026-06-25 06:54:37"
 }
