@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 10,
+  "online_count": 8,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -415,28 +415,6 @@
       }
     },
     {
-      "id": "767429136087121920",
-      "username": "atom171",
-      "discriminator": "0",
-      "displayName": "velkypindour",
-      "avatar_url": "https://cdn.discordapp.com/avatars/767429136087121920/7f2cf3118239bfb3cf6fed50a4d85dbf.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "FIFA 23",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
       "id": "1291007129054089277",
       "username": "vrata0",
       "discriminator": "0",
@@ -456,12 +434,34 @@
       "game": null
     },
     {
+      "id": "767429136087121920",
+      "username": "atom171",
+      "discriminator": "0",
+      "displayName": "velkypindour",
+      "avatar_url": "https://cdn.discordapp.com/avatars/767429136087121920/7f2cf3118239bfb3cf6fed50a4d85dbf.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "FIFA 23",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
       "displayName": "Yim",
       "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "online",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -476,44 +476,6 @@
         "name": "Shadow of the Tomb Raider",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "581048489463775232",
-      "username": "mirek.dusin",
-      "discriminator": "0",
-      "displayName": "Mirek Dušín",
-      "avatar_url": "https://cdn.discordapp.com/avatars/581048489463775232/5688e97eb51c022f0d35c58c56c5c810.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1445407926251687966",
-      "username": "peter850_",
-      "discriminator": "0",
-      "displayName": "Peter850",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1445407926251687966/d423425afdd619377ba355d80f580049.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1939,6 +1901,25 @@
       "game": null
     },
     {
+      "id": "581048489463775232",
+      "username": "mirek.dusin",
+      "discriminator": "0",
+      "displayName": "Mirek Dušín",
+      "avatar_url": "https://cdn.discordapp.com/avatars/581048489463775232/5688e97eb51c022f0d35c58c56c5c810.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1375351969090240584",
       "username": "moero0090_86171",
       "discriminator": "0",
@@ -2070,6 +2051,25 @@
       "discriminator": "0",
       "displayName": "papen08",
       "avatar_url": "https://cdn.discordapp.com/avatars/1112375027216683041/f7f2e9361e8a54ce6e72580ac7b967af.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "1445407926251687966",
+      "username": "peter850_",
+      "discriminator": "0",
+      "displayName": "Peter850",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1445407926251687966/d423425afdd619377ba355d80f580049.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2790,5 +2790,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-06-27 12:54:37"
+  "updated_at": "2026-06-27 13:09:37"
 }
