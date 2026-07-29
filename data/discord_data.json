@@ -409,7 +409,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "World of Tanks: Blitz",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "733320223309955223",
@@ -2776,5 +2779,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-07-29 01:54:28"
+  "updated_at": "2026-07-29 02:09:28"
 }
