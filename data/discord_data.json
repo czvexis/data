@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 123,
-  "online_count": 12,
+  "online_count": 13,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -391,7 +391,7 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": {
-        "name": "GTA V with Medal",
+        "name": "Screen Recording with Medal",
         "type": "ActivityType.playing"
       }
     },
@@ -415,11 +415,11 @@
       "game": null
     },
     {
-      "id": "288771977416671232",
-      "username": "7macejko7",
+      "id": "991697702142353490",
+      "username": "petras_7",
       "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "displayName": "P A V E L",
+      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -427,6 +427,12 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -456,11 +462,11 @@
       }
     },
     {
-      "id": "991697702142353490",
-      "username": "petras_7",
+      "id": "883755159094702090",
+      "username": "davoljaruka",
       "discriminator": "0",
-      "displayName": "P A V E L",
-      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
+      "displayName": "Davolja ruka",
+      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -468,12 +474,25 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "idle",
+      "roles": [
         {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -1091,25 +1110,6 @@
       "discriminator": "0",
       "displayName": "Dave",
       "avatar_url": "https://cdn.discordapp.com/avatars/1383795795626688572/5445ffd7ffb201a98393cbdf684ea4b1.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "883755159094702090",
-      "username": "davoljaruka",
-      "discriminator": "0",
-      "displayName": "Davolja ruka",
-      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2759,5 +2759,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-08-25 22:05:29"
+  "updated_at": "2026-08-25 22:20:29"
 }
