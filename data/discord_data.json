@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 122,
-  "online_count": 8,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -390,7 +390,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Fortnite",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "524340420692672513",
@@ -412,6 +415,50 @@
       "game": null
     },
     {
+      "id": "1271464448611323907",
+      "username": "michal11889",
+      "discriminator": "0",
+      "displayName": "michal",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "ROBLOX",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "498924085527445527",
+      "username": "balator",
+      "discriminator": "0",
+      "displayName": "Yim",
+      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Mass Effect",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
       "id": "1445407926251687966",
       "username": "peter850_",
       "discriminator": "0",
@@ -431,11 +478,11 @@
       "game": null
     },
     {
-      "id": "498924085527445527",
-      "username": "balator",
+      "id": "607553776735223828",
+      "username": "punk.rocker",
       "discriminator": "0",
-      "displayName": "Yim",
-      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "displayName": "Punkrocker",
+      "avatar_url": "https://cdn.discordapp.com/avatars/607553776735223828/3cfd0c77eb42a83b95cd84a9c1711958.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -447,10 +494,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Mass Effect",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "972547768461713538",
@@ -1775,25 +1819,6 @@
       "game": null
     },
     {
-      "id": "1271464448611323907",
-      "username": "michal11889",
-      "discriminator": "0",
-      "displayName": "michal",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "636077884511092736",
       "username": "mifin12",
       "discriminator": "0",
@@ -2032,25 +2057,6 @@
       "discriminator": "0",
       "displayName": "PR|Jakub",
       "avatar_url": "https://cdn.discordapp.com/avatars/1329159957068779571/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "607553776735223828",
-      "username": "punk.rocker",
-      "discriminator": "0",
-      "displayName": "Punkrocker",
-      "avatar_url": "https://cdn.discordapp.com/avatars/607553776735223828/3cfd0c77eb42a83b95cd84a9c1711958.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2734,5 +2740,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-09-07 14:32:20"
+  "updated_at": "2026-09-07 14:47:20"
 }
