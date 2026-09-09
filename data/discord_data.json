@@ -390,10 +390,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Counter-Strike 2",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "916314359209279499",
@@ -437,6 +434,44 @@
       }
     },
     {
+      "id": "515795268235427851",
+      "username": "thuglife8675",
+      "discriminator": "0",
+      "displayName": "ThugLife",
+      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "767429136087121920",
+      "username": "atom171",
+      "discriminator": "0",
+      "displayName": "velkypindour",
+      "avatar_url": "https://cdn.discordapp.com/avatars/767429136087121920/7f2cf3118239bfb3cf6fed50a4d85dbf.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -459,12 +494,12 @@
       }
     },
     {
-      "id": "883755159094702090",
-      "username": "davoljaruka",
+      "id": "493393437543104533",
+      "username": "domca7",
       "discriminator": "0",
-      "displayName": "Davolja ruka",
-      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
-      "status": "idle",
+      "displayName": "🐽Domca🐽",
+      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -475,7 +510,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "World of Tanks: Blitz",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1208108590041399360",
@@ -490,6 +528,31 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "838692284777496596",
+      "username": "kober34",
+      "discriminator": "0",
+      "displayName": "kober",
+      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -522,63 +585,6 @@
       "displayName": "PR|Jakub",
       "avatar_url": "https://cdn.discordapp.com/avatars/1329159957068779571/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=1024",
       "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "515795268235427851",
-      "username": "thuglife8675",
-      "discriminator": "0",
-      "displayName": "ThugLife",
-      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "493393437543104533",
-      "username": "domca7",
-      "discriminator": "0",
-      "displayName": "🐽Domca🐽",
-      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "673801393764827158",
-      "username": "cpt.banan_",
-      "discriminator": "0",
-      "displayName": "banan",
-      "avatar_url": "https://cdn.discordapp.com/avatars/673801393764827158/6910888037b700bd505a232984322f68.png?size=1024",
-      "status": "dnd",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -948,6 +954,25 @@
       "game": null
     },
     {
+      "id": "673801393764827158",
+      "username": "cpt.banan_",
+      "discriminator": "0",
+      "displayName": "banan",
+      "avatar_url": "https://cdn.discordapp.com/avatars/673801393764827158/6910888037b700bd505a232984322f68.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1056547885551988847",
       "username": "c00c00s.",
       "discriminator": "0",
@@ -1111,6 +1136,25 @@
       "discriminator": "0",
       "displayName": "Dave",
       "avatar_url": "https://cdn.discordapp.com/avatars/1383795795626688572/5445ffd7ffb201a98393cbdf684ea4b1.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "883755159094702090",
+      "username": "davoljaruka",
+      "discriminator": "0",
+      "displayName": "Davolja ruka",
+      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1547,31 +1591,6 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "838692284777496596",
-      "username": "kober34",
-      "discriminator": "0",
-      "displayName": "kober",
-      "avatar_url": "https://cdn.discordapp.com/avatars/838692284777496596/35e8c0f37764292ba767023bd4132310.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
@@ -2387,25 +2406,6 @@
       "game": null
     },
     {
-      "id": "767429136087121920",
-      "username": "atom171",
-      "discriminator": "0",
-      "displayName": "velkypindour",
-      "avatar_url": "https://cdn.discordapp.com/avatars/767429136087121920/7f2cf3118239bfb3cf6fed50a4d85dbf.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1401274293874069575",
       "username": "viteczzek",
       "discriminator": "0",
@@ -2740,5 +2740,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-09-09 20:17:20"
+  "updated_at": "2026-09-09 20:32:20"
 }
