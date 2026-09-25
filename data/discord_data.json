@@ -390,7 +390,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "The Crew Motorfest",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1401274293874069575",
@@ -2740,5 +2743,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-09-25 15:02:20"
+  "updated_at": "2026-09-25 15:17:20"
 }
