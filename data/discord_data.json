@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 121,
-  "online_count": 7,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -393,6 +393,25 @@
       "game": null
     },
     {
+      "id": "1110022213421256764",
+      "username": "ids23",
+      "discriminator": "0",
+      "displayName": "IS@@C",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1110022213421256764/73b93e653df82ffba596fb7a0838644b.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1401274293874069575",
       "username": "viteczzek",
       "discriminator": "0",
@@ -454,6 +473,18 @@
         "name": "Mass Effect 3",
         "type": "ActivityType.playing"
       }
+    },
+    {
+      "id": "1168992660552421508",
+      "username": "dr_nosey",
+      "discriminator": "0",
+      "displayName": "Dr. Nosey",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
+      "status": "idle",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1259,25 +1290,6 @@
       "discriminator": "0",
       "displayName": "HB",
       "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1110022213421256764",
-      "username": "ids23",
-      "discriminator": "0",
-      "displayName": "IS@@C",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1110022213421256764/73b93e653df82ffba596fb7a0838644b.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2579,18 +2591,6 @@
       "game": null
     },
     {
-      "id": "1168992660552421508",
-      "username": "dr_nosey",
-      "discriminator": "0",
-      "displayName": "Dr. Nosey",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "705149954091646988",
       "username": "enav7051",
       "discriminator": "0",
@@ -2718,5 +2718,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-02 17:47:20"
+  "updated_at": "2026-10-02 18:02:20"
 }
