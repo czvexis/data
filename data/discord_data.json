@@ -409,10 +409,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Anno 1800",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "288771977416671232",
@@ -494,12 +491,12 @@
       }
     },
     {
-      "id": "498924085527445527",
-      "username": "balator",
+      "id": "883755159094702090",
+      "username": "davoljaruka",
       "discriminator": "0",
-      "displayName": "Yim",
-      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
-      "status": "online",
+      "displayName": "Davolja ruka",
+      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -510,10 +507,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Mass Effect 3",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "1201581956429779055",
@@ -1088,25 +1082,6 @@
       "discriminator": "0",
       "displayName": "Dave",
       "avatar_url": "https://cdn.discordapp.com/avatars/1383795795626688572/5445ffd7ffb201a98393cbdf684ea4b1.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "883755159094702090",
-      "username": "davoljaruka",
-      "discriminator": "0",
-      "displayName": "Davolja ruka",
-      "avatar_url": "https://cdn.discordapp.com/avatars/883755159094702090/c3efadbc4adc0caee9fbddff0ec8089c.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2478,6 +2453,25 @@
       "game": null
     },
     {
+      "id": "498924085527445527",
+      "username": "balator",
+      "discriminator": "0",
+      "displayName": "Yim",
+      "avatar_url": "https://cdn.discordapp.com/avatars/498924085527445527/e9ab6a31e285bb5cf130b4db7be4c4a9.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "607582164485275678",
       "username": "zdenek1976",
       "discriminator": "0",
@@ -2724,5 +2718,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-05 20:17:20"
+  "updated_at": "2026-10-05 20:32:20"
 }
