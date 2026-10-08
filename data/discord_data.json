@@ -428,7 +428,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Roblox",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "934764149731389471",
@@ -2768,5 +2771,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-08 16:02:20"
+  "updated_at": "2026-10-08 16:17:20"
 }
