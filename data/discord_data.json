@@ -428,7 +428,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Roblox with Medal",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1291007129054089277",
@@ -447,10 +450,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Geometry Dash",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "498924085527445527",
@@ -2765,5 +2765,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-10 10:32:20"
+  "updated_at": "2026-10-10 10:47:20"
 }
