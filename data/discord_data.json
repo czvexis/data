@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 11,
+  "online_count": 13,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -450,6 +450,25 @@
       "game": null
     },
     {
+      "id": "493393437543104533",
+      "username": "domca7",
+      "discriminator": "0",
+      "displayName": "🐽Domca🐽",
+      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "916314359209279499",
       "username": "johanjebke",
       "discriminator": "0",
@@ -488,21 +507,14 @@
       "game": null
     },
     {
-      "id": "493393437543104533",
-      "username": "domca7",
+      "id": "1168992660552421508",
+      "username": "dr_nosey",
       "discriminator": "0",
-      "displayName": "🐽Domca🐽",
-      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
+      "displayName": "Dr. Nosey",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
       "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
+      "roles": [],
+      "highest_role_priority": 9999,
       "bot": false,
       "game": null
     },
@@ -539,6 +551,25 @@
         "name": "Custom Status",
         "type": "ActivityType.custom"
       }
+    },
+    {
+      "id": "960227453014532156",
+      "username": "kocicikebab24",
+      "discriminator": "0",
+      "displayName": "Kebab enjoyer",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "dnd",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1316481745251471416",
@@ -1476,25 +1507,6 @@
       "username": "kamilnecas",
       "discriminator": "0",
       "displayName": "Kamil Nečas",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "960227453014532156",
-      "username": "kocicikebab24",
-      "discriminator": "0",
-      "displayName": "Kebab enjoyer",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
       "roles": [
@@ -2614,18 +2626,6 @@
       "game": null
     },
     {
-      "id": "1168992660552421508",
-      "username": "dr_nosey",
-      "discriminator": "0",
-      "displayName": "Dr. Nosey",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "705149954091646988",
       "username": "enav7051",
       "discriminator": "0",
@@ -2765,5 +2765,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-25 16:54:31"
+  "updated_at": "2026-10-25 17:09:31"
 }
