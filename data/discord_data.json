@@ -371,25 +371,6 @@
       "game": null
     },
     {
-      "id": "1329159957068779571",
-      "username": "prjakub_45040",
-      "discriminator": "0",
-      "displayName": "PR|Jakub",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1329159957068779571/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -407,6 +388,28 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "673801393764827158",
+      "username": "cpt.banan_",
+      "discriminator": "0",
+      "displayName": "banan",
+      "avatar_url": "https://cdn.discordapp.com/avatars/673801393764827158/6910888037b700bd505a232984322f68.png?size=1024",
+      "status": "dnd",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Spotify",
+        "type": "ActivityType.listening"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -770,25 +773,6 @@
       "discriminator": "0",
       "displayName": "Bajza",
       "avatar_url": "https://cdn.discordapp.com/avatars/1353457858238349473/0bad4ae415ba131aa6ef01ec90508773.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "673801393764827158",
-      "username": "cpt.banan_",
-      "discriminator": "0",
-      "displayName": "banan",
-      "avatar_url": "https://cdn.discordapp.com/avatars/673801393764827158/6910888037b700bd505a232984322f68.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2002,6 +1986,25 @@
       "game": null
     },
     {
+      "id": "1329159957068779571",
+      "username": "prjakub_45040",
+      "discriminator": "0",
+      "displayName": "PR|Jakub",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1329159957068779571/c82b3fa769ed6e6ffdea579381ed5f5c.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "607553776735223828",
       "username": "punk.rocker",
       "discriminator": "0",
@@ -2759,5 +2762,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-27 10:54:31"
+  "updated_at": "2026-10-27 11:09:31"
 }
