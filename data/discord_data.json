@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 8,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -371,11 +371,11 @@
       "game": null
     },
     {
-      "id": "1271464448611323907",
-      "username": "michal11889",
+      "id": "916314359209279499",
+      "username": "johanjebke",
       "discriminator": "0",
-      "displayName": "michal",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
+      "displayName": "Johan Jebke",
+      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -387,10 +387,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "ROBLOX",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "771023763680133131",
@@ -430,6 +427,28 @@
       "bot": false,
       "game": {
         "name": "Subnautica 2 0.1.2.3-131439",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "1271464448611323907",
+      "username": "michal11889",
+      "discriminator": "0",
+      "displayName": "michal",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "ROBLOX",
         "type": "ActivityType.playing"
       }
     },
@@ -1402,25 +1421,6 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "916314359209279499",
-      "username": "johanjebke",
-      "discriminator": "0",
-      "displayName": "Johan Jebke",
-      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2765,5 +2765,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-30 18:24:31"
+  "updated_at": "2026-10-30 18:39:31"
 }
