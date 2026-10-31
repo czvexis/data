@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 11,
+  "online_count": 12,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -340,10 +340,7 @@
       ],
       "highest_role_priority": 6,
       "bot": true,
-      "game": {
-        "name": "/help pro help",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "1385677445373624350",
@@ -390,11 +387,11 @@
       "game": null
     },
     {
-      "id": "1271464448611323907",
-      "username": "michal11889",
+      "id": "1110022213421256764",
+      "username": "ids23",
       "discriminator": "0",
-      "displayName": "michal",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
+      "displayName": "IS@@C",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1110022213421256764/73b93e653df82ffba596fb7a0838644b.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -406,10 +403,7 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "ROBLOX",
-        "type": "ActivityType.playing"
-      }
+      "game": null
     },
     {
       "id": "771023763680133131",
@@ -508,6 +502,28 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": null
+    },
+    {
+      "id": "1271464448611323907",
+      "username": "michal11889",
+      "discriminator": "0",
+      "displayName": "michal",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "ROBLOX",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "934764149731389471",
@@ -1335,25 +1351,6 @@
       "discriminator": "0",
       "displayName": "HB",
       "avatar_url": "https://cdn.discordapp.com/avatars/821631037259513886/12bd4e77ed1e0fe274e52d2912b5bc44.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1110022213421256764",
-      "username": "ids23",
-      "discriminator": "0",
-      "displayName": "IS@@C",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1110022213421256764/73b93e653df82ffba596fb7a0838644b.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2768,5 +2765,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-31 18:39:31"
+  "updated_at": "2026-10-31 18:54:31"
 }
