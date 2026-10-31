@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 13,
+  "online_count": 15,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -422,7 +422,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "World of Tanks",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1271464448611323907",
@@ -463,10 +466,26 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Halloween GLORE Cup",
-        "type": "ActivityType.competing"
-      }
+      "game": null
+    },
+    {
+      "id": "1190773551972761730",
+      "username": "tigi0150",
+      "discriminator": "0",
+      "displayName": "TiGi",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1190773551972761730/dd1e3da95b6059f89cad85570e0a470d.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
     },
     {
       "id": "1401274293874069575",
@@ -532,12 +551,34 @@
       }
     },
     {
-      "id": "1190773551972761730",
-      "username": "tigi0150",
+      "id": "842030953547038750",
+      "username": "kubanczzz",
       "discriminator": "0",
-      "displayName": "TiGi",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1190773551972761730/dd1e3da95b6059f89cad85570e0a470d.png?size=1024",
-      "status": "idle",
+      "displayName": "❤Kuban_ofic69❤",
+      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "BlueStacks 5",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
+      "id": "493393437543104533",
+      "username": "domca7",
+      "discriminator": "0",
+      "displayName": "🐽Domca🐽",
+      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
+      "status": "online",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -2539,49 +2580,11 @@
       "game": null
     },
     {
-      "id": "842030953547038750",
-      "username": "kubanczzz",
-      "discriminator": "0",
-      "displayName": "❤Kuban_ofic69❤",
-      "avatar_url": "https://cdn.discordapp.com/avatars/842030953547038750/0efb9fa512c3adb86e43947aae738afd.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "411587038006214656",
       "username": "mnky2mnky2mnky",
       "discriminator": "0",
       "displayName": "🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒🐒",
       "avatar_url": "https://cdn.discordapp.com/avatars/411587038006214656/7f62f2605e59d24661998721abee0e66.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "493393437543104533",
-      "username": "domca7",
-      "discriminator": "0",
-      "displayName": "🐽Domca🐽",
-      "avatar_url": "https://cdn.discordapp.com/avatars/493393437543104533/779d0f3845956b2d3d54c87d449aecea.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -2771,5 +2774,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-31 19:54:31"
+  "updated_at": "2026-10-31 20:09:31"
 }
