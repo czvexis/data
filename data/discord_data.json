@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 13,
+  "online_count": 12,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -387,47 +387,6 @@
       "game": null
     },
     {
-      "id": "916314359209279499",
-      "username": "johanjebke",
-      "discriminator": "0",
-      "displayName": "Johan Jebke",
-      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1271464448611323907",
-      "username": "michal11889",
-      "discriminator": "0",
-      "displayName": "michal",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "ROBLOX",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
       "id": "771023763680133131",
       "username": "stepn_xd",
       "discriminator": "0",
@@ -467,7 +426,7 @@
       "highest_role_priority": 7,
       "bot": false,
       "game": {
-        "name": "ROBLOX",
+        "name": "Roblox with Medal",
         "type": "ActivityType.playing"
       }
     },
@@ -513,6 +472,25 @@
       }
     },
     {
+      "id": "916314359209279499",
+      "username": "johanjebke",
+      "discriminator": "0",
+      "displayName": "Johan Jebke",
+      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "288771977416671232",
       "username": "7macejko7",
       "discriminator": "0",
@@ -532,11 +510,11 @@
       "game": null
     },
     {
-      "id": "674200696945508353",
-      "username": "motlas",
+      "id": "1271464448611323907",
+      "username": "michal11889",
       "discriminator": "0",
-      "displayName": "motlas",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "displayName": "michal",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1271464448611323907/e3533d541e517d1add4dcef930763d30.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -548,7 +526,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "ROBLOX",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "934764149731389471",
@@ -1945,6 +1926,25 @@
       "game": null
     },
     {
+      "id": "674200696945508353",
+      "username": "motlas",
+      "discriminator": "0",
+      "displayName": "motlas",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1069093666800549949",
       "username": "nyvlt",
       "discriminator": "0",
@@ -2771,5 +2771,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-10-31 19:24:31"
+  "updated_at": "2026-10-31 19:39:31"
 }
