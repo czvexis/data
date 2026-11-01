@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 124,
-  "online_count": 11,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -368,6 +368,47 @@
       "game": null
     },
     {
+      "id": "868773176384028702",
+      "username": "maresicek",
+      "discriminator": "0",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "288771977416671232",
+      "username": "7macejko7",
+      "discriminator": "0",
+      "displayName": "Macejko",
+      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "World of Tanks",
+        "type": "ActivityType.playing"
+      }
+    },
+    {
       "id": "1291007129054089277",
       "username": "vrata0",
       "discriminator": "0",
@@ -428,44 +469,6 @@
       "game": null
     },
     {
-      "id": "868773176384028702",
-      "username": "maresicek",
-      "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "288771977416671232",
-      "username": "7macejko7",
-      "discriminator": "0",
-      "displayName": "Macejko",
-      "avatar_url": "https://cdn.discordapp.com/avatars/288771977416671232/2767879de23ec57aa36802a467e4b8cf.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -490,25 +493,6 @@
       "discriminator": "0",
       "displayName": "csmrstepa",
       "avatar_url": "https://cdn.discordapp.com/avatars/606170960017620993/3d76c52fb02bf89e58d5a5b4cf10aaf1.png?size=1024",
-      "status": "dnd",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "960227453014532156",
-      "username": "kocicikebab24",
-      "discriminator": "0",
-      "displayName": "Kebab enjoyer",
-      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "dnd",
       "roles": [
         {
@@ -1489,6 +1473,25 @@
       "username": "kamilnecas",
       "discriminator": "0",
       "displayName": "Kamil Nečas",
+      "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "960227453014532156",
+      "username": "kocicikebab24",
+      "discriminator": "0",
+      "displayName": "Kebab enjoyer",
       "avatar_url": "https://cdn.discordapp.com/embed/avatars/0.png",
       "status": "offline",
       "roles": [
@@ -2759,5 +2762,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-01 13:39:31"
+  "updated_at": "2026-11-01 13:54:31"
 }
