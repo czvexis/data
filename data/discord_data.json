@@ -422,7 +422,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "World of Warcraft: Forever",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "821631037259513886",
@@ -2797,5 +2800,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-11 07:24:31"
+  "updated_at": "2026-11-11 07:39:31"
 }
