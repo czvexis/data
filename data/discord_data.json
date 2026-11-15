@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 15,
+  "online_count": 14,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -406,28 +406,6 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": {
-        "name": "Fortnite",
-        "type": "ActivityType.playing"
-      }
-    },
-    {
-      "id": "515795268235427851",
-      "username": "thuglife8675",
-      "discriminator": "0",
-      "displayName": "ThugLife",
-      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
       "game": null
     },
     {
@@ -513,7 +491,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Euro Truck Simulator 2",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "868773176384028702",
@@ -573,11 +554,11 @@
       "game": null
     },
     {
-      "id": "760480714692755456",
-      "username": "peterishere3020",
+      "id": "515795268235427851",
+      "username": "thuglife8675",
       "discriminator": "0",
-      "displayName": "PítR",
-      "avatar_url": "https://cdn.discordapp.com/avatars/760480714692755456/d73f7d47d873690c76a5b88f70c0f656.png?size=1024",
+      "displayName": "ThugLife",
+      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -2150,6 +2131,25 @@
       "game": null
     },
     {
+      "id": "760480714692755456",
+      "username": "peterishere3020",
+      "discriminator": "0",
+      "displayName": "PítR",
+      "avatar_url": "https://cdn.discordapp.com/avatars/760480714692755456/d73f7d47d873690c76a5b88f70c0f656.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "950331522492272672",
       "username": "raf156",
       "discriminator": "0",
@@ -2812,5 +2812,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-15 17:24:31"
+  "updated_at": "2026-11-15 17:39:31"
 }
