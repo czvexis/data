@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 126,
-  "online_count": 10,
+  "online_count": 9,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -368,6 +368,25 @@
       "game": null
     },
     {
+      "id": "868773176384028702",
+      "username": "maresicek",
+      "discriminator": "0",
+      "displayName": "ae",
+      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "379687101614129153",
       "username": "arkephalos",
       "discriminator": "0",
@@ -409,28 +428,9 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
-    },
-    {
-      "id": "1314511241359790102",
-      "username": "vojtech8593",
-      "discriminator": "0",
-      "displayName": "Vojtislav",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1314511241359790102/f89ed6d57033ea42bfb44c8fc173baf6.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
       "game": {
-        "name": "Spotify",
-        "type": "ActivityType.listening"
+        "name": "F1® 2020",
+        "type": "ActivityType.playing"
       }
     },
     {
@@ -476,25 +476,6 @@
         "name": "World of Warcraft: Forever",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "868773176384028702",
-      "username": "maresicek",
-      "discriminator": "0",
-      "displayName": "ae",
-      "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
     },
     {
       "id": "288771977416671232",
@@ -2457,6 +2438,25 @@
       "game": null
     },
     {
+      "id": "1314511241359790102",
+      "username": "vojtech8593",
+      "discriminator": "0",
+      "displayName": "Vojtislav",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1314511241359790102/f89ed6d57033ea42bfb44c8fc173baf6.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1291007129054089277",
       "username": "vrata0",
       "discriminator": "0",
@@ -2803,5 +2803,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-17 11:54:31"
+  "updated_at": "2026-11-17 12:09:31"
 }
