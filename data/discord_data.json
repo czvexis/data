@@ -373,7 +373,26 @@
       "discriminator": "0",
       "displayName": "ae",
       "avatar_url": "https://cdn.discordapp.com/avatars/868773176384028702/bc79c2806e1d6185c65fa8a6e1fc1186.png?size=1024",
-      "status": "online",
+      "status": "idle",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "771023763680133131",
+      "username": "stepn_xd",
+      "discriminator": "0",
+      "displayName": "Stepn_",
+      "avatar_url": "https://cdn.discordapp.com/avatars/771023763680133131/dc073cd2270bdf73994b85093b62c2db.png?size=1024",
+      "status": "idle",
       "roles": [
         {
           "id": "1331726402051117098",
@@ -402,18 +421,6 @@
         }
       ],
       "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "1168992660552421508",
-      "username": "dr_nosey",
-      "discriminator": "0",
-      "displayName": "Dr. Nosey",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
-      "status": "idle",
-      "roles": [],
-      "highest_role_priority": 9999,
       "bot": false,
       "game": null
     },
@@ -2232,25 +2239,6 @@
       "game": null
     },
     {
-      "id": "771023763680133131",
-      "username": "stepn_xd",
-      "discriminator": "0",
-      "displayName": "Stepn_",
-      "avatar_url": "https://cdn.discordapp.com/avatars/771023763680133131/dc073cd2270bdf73994b85093b62c2db.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "906833435421728818",
       "username": "valec3495",
       "discriminator": "0",
@@ -2655,6 +2643,18 @@
       "game": null
     },
     {
+      "id": "1168992660552421508",
+      "username": "dr_nosey",
+      "discriminator": "0",
+      "displayName": "Dr. Nosey",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "705149954091646988",
       "username": "enav7051",
       "discriminator": "0",
@@ -2794,5 +2794,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-23 09:54:31"
+  "updated_at": "2026-11-23 10:09:31"
 }
