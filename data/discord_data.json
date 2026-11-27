@@ -368,11 +368,11 @@
       "game": null
     },
     {
-      "id": "1401274293874069575",
-      "username": "viteczzek",
+      "id": "916314359209279499",
+      "username": "johanjebke",
       "discriminator": "0",
-      "displayName": "viteczzek1m?",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1401274293874069575/62259990ab9d41879c5652aa9decce74.png?size=1024",
+      "displayName": "Johan Jebke",
+      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -453,11 +453,11 @@
       "game": null
     },
     {
-      "id": "606170960017620993",
-      "username": "csmrstepa",
+      "id": "972547768461713538",
+      "username": "dannik99",
       "discriminator": "0",
-      "displayName": "csmrstepa",
-      "avatar_url": "https://cdn.discordapp.com/avatars/606170960017620993/3d76c52fb02bf89e58d5a5b4cf10aaf1.png?size=1024",
+      "displayName": "DanNIK",
+      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/bb24dd6f5eec8b94952e1d92be70e69d.png?size=1024",
       "status": "dnd",
       "roles": [
         {
@@ -469,7 +469,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Rocket League®",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -904,6 +907,25 @@
       "game": null
     },
     {
+      "id": "606170960017620993",
+      "username": "csmrstepa",
+      "discriminator": "0",
+      "displayName": "csmrstepa",
+      "avatar_url": "https://cdn.discordapp.com/avatars/606170960017620993/3d76c52fb02bf89e58d5a5b4cf10aaf1.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "641305436183592960",
       "username": "ct6ad",
       "discriminator": "0",
@@ -972,25 +994,6 @@
       "discriminator": "0",
       "displayName": "Dankos",
       "avatar_url": "https://cdn.discordapp.com/avatars/1049751005773967421/d2fe64d9edf3c9e79abd6aa31a8e8589.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "972547768461713538",
-      "username": "dannik99",
-      "discriminator": "0",
-      "displayName": "DanNIK",
-      "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/bb24dd6f5eec8b94952e1d92be70e69d.png?size=1024",
       "status": "offline",
       "roles": [
         {
@@ -1339,25 +1342,6 @@
           "name": "Člen ČM",
           "color": "#e67e22",
           "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
-      "id": "916314359209279499",
-      "username": "johanjebke",
-      "discriminator": "0",
-      "displayName": "Johan Jebke",
-      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
         }
       ],
       "highest_role_priority": 7,
@@ -2413,6 +2397,25 @@
       "game": null
     },
     {
+      "id": "1401274293874069575",
+      "username": "viteczzek",
+      "discriminator": "0",
+      "displayName": "viteczzek1m?",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1401274293874069575/62259990ab9d41879c5652aa9decce74.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1314511241359790102",
       "username": "vojtech8593",
       "discriminator": "0",
@@ -2778,5 +2781,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-27 08:54:31"
+  "updated_at": "2026-11-27 09:09:31"
 }
