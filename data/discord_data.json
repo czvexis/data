@@ -3,7 +3,7 @@
   "id": "998541381352034365",
   "icon_url": "https://cdn.discordapp.com/icons/998541381352034365/52bdf77a5666f7faba59ceabeaf12d6d.png?size=1024",
   "member_count": 125,
-  "online_count": 8,
+  "online_count": 10,
   "channels": [
     {
       "id": "1319396462542721135",
@@ -368,6 +368,31 @@
       "game": null
     },
     {
+      "id": "991697702142353490",
+      "username": "petras_7",
+      "discriminator": "0",
+      "displayName": "P A V E L",
+      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "771023763680133131",
       "username": "stepn_xd",
       "discriminator": "0",
@@ -384,7 +409,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Grand Theft Auto VI",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "1401274293874069575",
@@ -456,11 +484,11 @@
       "game": null
     },
     {
-      "id": "769488254746624000",
-      "username": "godoffood_",
+      "id": "934764149731389471",
+      "username": "mrtvymouchy",
       "discriminator": "0",
-      "displayName": "GodOfFood",
-      "avatar_url": "https://cdn.discordapp.com/avatars/769488254746624000/1b277c5830b8652c9869d193e4d458bd.png?size=1024",
+      "displayName": "Walross Wald",
+      "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -468,15 +496,24 @@
           "name": "Pravidla ✅️",
           "color": "#25c059",
           "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
         }
       ],
       "highest_role_priority": 7,
+      "bot": false,
+      "game": {
+        "name": "Lidi jsou jen otroci svých čistých otrokářů",
+        "type": "ActivityType.custom"
+      }
+    },
+    {
+      "id": "1168992660552421508",
+      "username": "dr_nosey",
+      "discriminator": "0",
+      "displayName": "Dr. Nosey",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
+      "status": "idle",
+      "roles": [],
+      "highest_role_priority": 9999,
       "bot": false,
       "game": null
     },
@@ -1229,6 +1266,31 @@
       "game": null
     },
     {
+      "id": "769488254746624000",
+      "username": "godoffood_",
+      "discriminator": "0",
+      "displayName": "GodOfFood",
+      "avatar_url": "https://cdn.discordapp.com/avatars/769488254746624000/1b277c5830b8652c9869d193e4d458bd.png?size=1024",
+      "status": "offline",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        },
+        {
+          "id": "1376286594239041577",
+          "name": "Člen ČM",
+          "color": "#e67e22",
+          "priority": 9999
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "849682549856796702",
       "username": "hauli",
       "discriminator": "0",
@@ -1936,31 +1998,6 @@
       "game": null
     },
     {
-      "id": "991697702142353490",
-      "username": "petras_7",
-      "discriminator": "0",
-      "displayName": "P A V E L",
-      "avatar_url": "https://cdn.discordapp.com/avatars/991697702142353490/e88a784f9d0c73558f86730b29a17988.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        },
-        {
-          "id": "1376286594239041577",
-          "name": "Člen ČM",
-          "color": "#e67e22",
-          "priority": 9999
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1112375027216683041",
       "username": "papen08.",
       "discriminator": "0",
@@ -2454,25 +2491,6 @@
       "game": null
     },
     {
-      "id": "934764149731389471",
-      "username": "mrtvymouchy",
-      "discriminator": "0",
-      "displayName": "Walross Wald",
-      "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1063763260010143775",
       "username": "vojtas2078",
       "discriminator": "0",
@@ -2630,18 +2648,6 @@
       "game": null
     },
     {
-      "id": "1168992660552421508",
-      "username": "dr_nosey",
-      "discriminator": "0",
-      "displayName": "Dr. Nosey",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1168992660552421508/1932904c1ef8ba49ab27c190f06274d5.png?size=1024",
-      "status": "offline",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "705149954091646988",
       "username": "enav7051",
       "discriminator": "0",
@@ -2781,5 +2787,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-27 15:24:31"
+  "updated_at": "2026-11-27 15:39:31"
 }
