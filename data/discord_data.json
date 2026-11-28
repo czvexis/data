@@ -390,7 +390,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
+      "game": {
+        "name": "Heroes of Might and Magic 4 Complete",
+        "type": "ActivityType.playing"
+      }
     },
     {
       "id": "972547768461713538",
@@ -398,6 +401,63 @@
       "discriminator": "0",
       "displayName": "DanNIK",
       "avatar_url": "https://cdn.discordapp.com/avatars/972547768461713538/bb24dd6f5eec8b94952e1d92be70e69d.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "916314359209279499",
+      "username": "johanjebke",
+      "discriminator": "0",
+      "displayName": "Johan Jebke",
+      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "581048489463775232",
+      "username": "mirek.dusin",
+      "discriminator": "0",
+      "displayName": "Mirek Dušín",
+      "avatar_url": "https://cdn.discordapp.com/avatars/581048489463775232/5688e97eb51c022f0d35c58c56c5c810.png?size=1024",
+      "status": "online",
+      "roles": [
+        {
+          "id": "1331726402051117098",
+          "name": "Pravidla ✅️",
+          "color": "#25c059",
+          "priority": 7
+        }
+      ],
+      "highest_role_priority": 7,
+      "bot": false,
+      "game": null
+    },
+    {
+      "id": "515795268235427851",
+      "username": "thuglife8675",
+      "discriminator": "0",
+      "displayName": "ThugLife",
+      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
       "status": "online",
       "roles": [
         {
@@ -434,28 +494,6 @@
       }
     },
     {
-      "id": "934764149731389471",
-      "username": "mrtvymouchy",
-      "discriminator": "0",
-      "displayName": "Walross Wald",
-      "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
-      "status": "online",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": {
-        "name": "Lidi jsou jen otroci svých čistých otrokářů",
-        "type": "ActivityType.custom"
-      }
-    },
-    {
       "id": "498924085527445527",
       "username": "balator",
       "discriminator": "0",
@@ -476,18 +514,6 @@
         "name": "World of Warcraft: Forever",
         "type": "ActivityType.playing"
       }
-    },
-    {
-      "id": "1036379494379954266",
-      "username": "velbloud90",
-      "discriminator": "0",
-      "displayName": "Velbloudíhrb 🐫",
-      "avatar_url": "https://cdn.discordapp.com/avatars/1036379494379954266/02a79b37f849a2fe0b826c0825eee5f5.png?size=1024",
-      "status": "online",
-      "roles": [],
-      "highest_role_priority": 9999,
-      "bot": false,
-      "game": null
     },
     {
       "id": "1112367703634739321",
@@ -515,11 +541,11 @@
       "game": null
     },
     {
-      "id": "916314359209279499",
-      "username": "johanjebke",
+      "id": "934764149731389471",
+      "username": "mrtvymouchy",
       "discriminator": "0",
-      "displayName": "Johan Jebke",
-      "avatar_url": "https://cdn.discordapp.com/avatars/916314359209279499/0b4fb318384452c04dfef42361b0455f.png?size=1024",
+      "displayName": "Walross Wald",
+      "avatar_url": "https://cdn.discordapp.com/avatars/934764149731389471/0de5bc682e821d2f9fd22c27c0712be3.png?size=1024",
       "status": "idle",
       "roles": [
         {
@@ -531,26 +557,10 @@
       ],
       "highest_role_priority": 7,
       "bot": false,
-      "game": null
-    },
-    {
-      "id": "581048489463775232",
-      "username": "mirek.dusin",
-      "discriminator": "0",
-      "displayName": "Mirek Dušín",
-      "avatar_url": "https://cdn.discordapp.com/avatars/581048489463775232/5688e97eb51c022f0d35c58c56c5c810.png?size=1024",
-      "status": "idle",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
+      "game": {
+        "name": "Lidi jsou jen otroci svých čistých otrokářů",
+        "type": "ActivityType.custom"
+      }
     },
     {
       "id": "1316481745251471416",
@@ -2336,25 +2346,6 @@
       "game": null
     },
     {
-      "id": "515795268235427851",
-      "username": "thuglife8675",
-      "discriminator": "0",
-      "displayName": "ThugLife",
-      "avatar_url": "https://cdn.discordapp.com/avatars/515795268235427851/ef506efc824615740a0576fd75fa72ed.png?size=1024",
-      "status": "offline",
-      "roles": [
-        {
-          "id": "1331726402051117098",
-          "name": "Pravidla ✅️",
-          "color": "#25c059",
-          "priority": 7
-        }
-      ],
-      "highest_role_priority": 7,
-      "bot": false,
-      "game": null
-    },
-    {
       "id": "1190773551972761730",
       "username": "tigi0150",
       "discriminator": "0",
@@ -2772,6 +2763,18 @@
       "game": null
     },
     {
+      "id": "1036379494379954266",
+      "username": "velbloud90",
+      "discriminator": "0",
+      "displayName": "Velbloudíhrb 🐫",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1036379494379954266/02a79b37f849a2fe0b826c0825eee5f5.png?size=1024",
+      "status": "offline",
+      "roles": [],
+      "highest_role_priority": 9999,
+      "bot": false,
+      "game": null
+    },
+    {
       "id": "1557601064335839261",
       "username": "_zkl_03",
       "discriminator": "0",
@@ -2784,5 +2787,5 @@
       "game": null
     }
   ],
-  "updated_at": "2026-11-28 10:39:31"
+  "updated_at": "2026-11-28 10:54:31"
 }
